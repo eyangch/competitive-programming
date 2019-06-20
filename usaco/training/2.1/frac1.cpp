@@ -1,9 +1,3 @@
-/*
-ID: sireric1
-TASK: frac1
-LANG: C++11
-*/
-
 #include <iostream>
 #include <fstream>
 #include <cmath>
