@@ -1,9 +1,3 @@
-/*
-ID: sireric1
-PROG: castle
-LANG: C++11
-*/
-
 #include <iostream>
 #include <fstream>
 #include <array>
