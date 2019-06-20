@@ -1,8 +1,3 @@
-/*
-ID: sireric1
-LANG: C++11
-TASK: sort3
-*/
 #include <iostream>
 #include <fstream>
 #include <array>
