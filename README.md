@@ -1,2 +1,2 @@
 # competitive-computing
-A collection of code for coding competitions
+A bunch of coding stuff
