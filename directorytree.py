@@ -13,4 +13,4 @@ for root, dirs, files in os.walk("."):
         dirs.remove(".git")
 print("Total Files: " + str(totalfiles))
 for i in arr:
-    print(i)
+    print(i + "\\")
