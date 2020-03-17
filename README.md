@@ -1,7 +1,7 @@
 # competitive-computing
 A bunch of coding stuff
 
-### Total Files: 97\
+### Total Files: 97
 [./USACOcontests/bronze/2011.12.escape.java](./USACOcontests/bronze/2011.12.escape.java)\
 [./USACOcontests/bronze/2019.12.gymnastics.cpp](./USACOcontests/bronze/2019.12.gymnastics.cpp)\
 [./USACOcontests/bronze/2019.02.herding.cpp](./USACOcontests/bronze/2019.02.herding.cpp)\
