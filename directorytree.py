@@ -11,6 +11,6 @@ for root, dirs, files in os.walk("."):
         totalfiles += 1
     if ".git" in dirs:
         dirs.remove(".git")
-print("Total Files: " + str(totalfiles))
+print("### Total Files: " + str(totalfiles))
 for i in arr:
     print(i + "\\")
