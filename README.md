@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 104
+### Total Files: 105
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
 [./Codeforces/11/a.cpp](./Codeforces/11/a.cpp)\
@@ -69,6 +69,7 @@ A bunch of coding stuff
 [./USACOcontests/silver/2017.01.cowdance.cpp](./USACOcontests/silver/2017.01.cowdance.cpp)\
 [./USACOcontests/silver/2017.01.hps.cpp](./USACOcontests/silver/2017.01.hps.cpp)\
 [./USACOcontests/silver/2017.02.countcross.cpp](./USACOcontests/silver/2017.02.countcross.cpp)\
+[./USACOcontests/silver/2017.02.helpcross.cpp](./USACOcontests/silver/2017.02.helpcross.cpp)\
 [./USACOcontests/silver/2017.02.maxcross.cpp](./USACOcontests/silver/2017.02.maxcross.cpp)\
 [./USACOcontests/silver/2017.03.pairup.java](./USACOcontests/silver/2017.03.pairup.java)\
 [./USACOcontests/silver/2017.12.homework.cpp](./USACOcontests/silver/2017.12.homework.cpp)\
