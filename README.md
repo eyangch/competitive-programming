@@ -22,7 +22,7 @@ A bunch of coding stuff
 [./Codeforces/1304/a.cpp](./Codeforces/1304/a.cpp)\
 [./Codeforces/1304/b.cpp](./Codeforces/1304/b.cpp)\
 [./Codeforces/1307/a.cpp](./Codeforces/1307/a.cpp)\
-[./Codeforces/1312/main.cpp](./Codeforces/1312/main.cpp)\
+[./Codeforces/1312/c.cpp](./Codeforces/1312/c.cpp)\
 [./Codeforces/1316/b.cpp](./Codeforces/1316/b.cpp)\
 [./Codeforces/1321/c.cpp](./Codeforces/1321/c.cpp)\
 [./Codeforces/1323/b.cpp](./Codeforces/1323/b.cpp)\
