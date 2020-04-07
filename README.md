@@ -46,7 +46,6 @@ A bunch of coding stuff
 [./Codeforces/136/a.cpp](./Codeforces/136/a.cpp)\
 [./Codeforces/141/a.cpp](./Codeforces/141/a.cpp)\
 [./Codeforces/160/a.cpp](./Codeforces/160/a.cpp)\
-[./Codeforces/166/.a.cpp.swp](./Codeforces/166/.a.cpp.swp)\
 [./Codeforces/166/a.cpp](./Codeforces/166/a.cpp)\
 [./Codeforces/219/a.cpp](./Codeforces/219/a.cpp)\
 [./Codeforces/22/a.cpp](./Codeforces/22/a.cpp)\
@@ -59,6 +58,7 @@ A bunch of coding stuff
 [./Codeforces/337/a.cpp](./Codeforces/337/a.cpp)\
 [./Codeforces/339/b.cpp](./Codeforces/339/b.cpp)\
 [./Codeforces/363/b.cpp](./Codeforces/363/b.cpp)\
+[./Codeforces/389/c.cpp](./Codeforces/389/c.cpp)\
 [./Codeforces/4/a.cpp](./Codeforces/4/a.cpp)\
 [./Codeforces/4/b.cpp](./Codeforces/4/b.cpp)\
 [./Codeforces/4/c.cpp](./Codeforces/4/c.cpp)\
