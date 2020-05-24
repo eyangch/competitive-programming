@@ -82,7 +82,6 @@ A bunch of coding stuff
 [./Codeforces/1348/a.cpp](./Codeforces/1348/a.cpp)\
 [./Codeforces/1350/a.cpp](./Codeforces/1350/a.cpp)\
 [./Codeforces/1350/b.cpp](./Codeforces/1350/b.cpp)\
-[./Codeforces/1350/c.cpp](./Codeforces/1350/c.cpp)\
 [./Codeforces/1352/a.cpp](./Codeforces/1352/a.cpp)\
 [./Codeforces/1352/b.cpp](./Codeforces/1352/b.cpp)\
 [./Codeforces/1352/c.cpp](./Codeforces/1352/c.cpp)\
@@ -90,6 +89,7 @@ A bunch of coding stuff
 [./Codeforces/1352/e.cpp](./Codeforces/1352/e.cpp)\
 [./Codeforces/1352/f.cpp](./Codeforces/1352/f.cpp)\
 [./Codeforces/1354/a.cpp](./Codeforces/1354/a.cpp)\
+[./Codeforces/1354/b.cpp](./Codeforces/1354/b.cpp)\
 [./Codeforces/136/a.cpp](./Codeforces/136/a.cpp)\
 [./Codeforces/141/a.cpp](./Codeforces/141/a.cpp)\
 [./Codeforces/152/c.cpp](./Codeforces/152/c.cpp)\
