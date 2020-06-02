@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 231
+### Total Files: 232
 [./Codeforces/template.cpp](./Codeforces/template.cpp)\
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
@@ -208,6 +208,7 @@ A bunch of coding stuff
 [./USACOcontests/silver/2018.12.convention2.cpp](./USACOcontests/silver/2018.12.convention2.cpp)\
 [./USACOcontests/silver/2018.12.mooyomooyo.cpp](./USACOcontests/silver/2018.12.mooyomooyo.cpp)\
 [./USACOcontests/silver/2019.01.mountains.cpp](./USACOcontests/silver/2019.01.mountains.cpp)\
+[./USACOcontests/silver/2019.01.perimeter.cpp](./USACOcontests/silver/2019.01.perimeter.cpp)\
 [./USACOcontests/silver/2019.01.planting.cpp](./USACOcontests/silver/2019.01.planting.cpp)\
 [./USACOcontests/silver/2019.02.herding.cpp](./USACOcontests/silver/2019.02.herding.cpp)\
 [./USACOcontests/silver/2019.02.revegetate.cpp](./USACOcontests/silver/2019.02.revegetate.cpp)\
