@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 238
+### Total Files: 239
 [./Codeforces/template.cpp](./Codeforces/template.cpp)\
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
@@ -106,6 +106,7 @@ A bunch of coding stuff
 [./Codeforces/136/a.cpp](./Codeforces/136/a.cpp)\
 [./Codeforces/1362/a.cpp](./Codeforces/1362/a.cpp)\
 [./Codeforces/1362/b.cpp](./Codeforces/1362/b.cpp)\
+[./Codeforces/1362/c.cpp](./Codeforces/1362/c.cpp)\
 [./Codeforces/1363/a.cpp](./Codeforces/1363/a.cpp)\
 [./Codeforces/1363/b.cpp](./Codeforces/1363/b.cpp)\
 [./Codeforces/1363/c.cpp](./Codeforces/1363/c.cpp)\
