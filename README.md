@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 335
+### Total Files: 336
 [./Codeforces/template.cpp](./Codeforces/template.cpp)\
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
@@ -334,6 +334,7 @@ A bunch of coding stuff
 [./USACOtraining/2.3/nocows.cpp](./USACOtraining/2.3/nocows.cpp)\
 [./USACOtraining/2.3/prefix.cpp](./USACOtraining/2.3/prefix.cpp)\
 [./USACOtraining/2.3/zerosum.cpp](./USACOtraining/2.3/zerosum.cpp)\
+[./USACOtraining/2.4/comehome.cpp](./USACOtraining/2.4/comehome.cpp)\
 [./USACOtraining/2.4/cowtour.cpp](./USACOtraining/2.4/cowtour.cpp)\
 [./USACOtraining/2.4/maze1.cpp](./USACOtraining/2.4/maze1.cpp)\
 [./USACOtraining/2.4/ttwo.cpp](./USACOtraining/2.4/ttwo.cpp)
