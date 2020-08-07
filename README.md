@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 401
+### Total Files: 402
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
 [./Codeforces/11/a.cpp](./Codeforces/11/a.cpp)\
@@ -402,4 +402,5 @@ A bunch of coding stuff
 [./USACOtraining/3.3/game1.cpp](./USACOtraining/3.3/game1.cpp)\
 [./USACOtraining/3.3/shopping.cpp](./USACOtraining/3.3/shopping.cpp)\
 [./templates/dijkstra_elogv.cpp](./templates/dijkstra_elogv.cpp)\
+[./templates/dsu.cpp](./templates/dsu.cpp)\
 [./templates/template.cpp](./templates/template.cpp)
