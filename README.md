@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 403
+### Total Files: 404
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
 [./Codeforces/11/a.cpp](./Codeforces/11/a.cpp)\
@@ -274,6 +274,7 @@ A bunch of coding stuff
 [./USACOcontests/gold/2017.12/hayfeast.cpp](./USACOcontests/gold/2017.12/hayfeast.cpp)\
 [./USACOcontests/gold/2017.12/piepie.cpp](./USACOcontests/gold/2017.12/piepie.cpp)\
 [./USACOcontests/gold/2018.01/atlarge.cpp](./USACOcontests/gold/2018.01/atlarge.cpp)\
+[./USACOcontests/gold/2018.01/mootube.cpp](./USACOcontests/gold/2018.01/mootube.cpp)\
 [./USACOcontests/gold/2018.01/spainting.cpp](./USACOcontests/gold/2018.01/spainting.cpp)\
 [./USACOcontests/gold/2018.02/dirtraverse.cpp](./USACOcontests/gold/2018.02/dirtraverse.cpp)\
 [./USACOcontests/gold/2018.02/snowboots.cpp](./USACOcontests/gold/2018.02/snowboots.cpp)\
