@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 400
+### Total Files: 401
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
 [./Codeforces/11/a.cpp](./Codeforces/11/a.cpp)\
@@ -338,6 +338,7 @@ A bunch of coding stuff
 [./USACOcontests/silver/2018.01/mootube.cpp](./USACOcontests/silver/2018.01/mootube.cpp)\
 [./USACOcontests/silver/2018.01/rental.cpp](./USACOcontests/silver/2018.01/rental.cpp)\
 [./USACOcontests/silver/2018.02/reststops.cpp](./USACOcontests/silver/2018.02/reststops.cpp)\
+[./USACOcontests/silver/2018.02/reststops_codegolf.cpp](./USACOcontests/silver/2018.02/reststops_codegolf.cpp)\
 [./USACOcontests/silver/2018.02/snowboots.cpp](./USACOcontests/silver/2018.02/snowboots.cpp)\
 [./USACOcontests/silver/2018.02/teleport.cpp](./USACOcontests/silver/2018.02/teleport.cpp)\
 [./USACOcontests/silver/2018.03/lemonade.cpp](./USACOcontests/silver/2018.03/lemonade.cpp)\
