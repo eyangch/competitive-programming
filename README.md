@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 424
+### Total Files: 425
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
 [./Codeforces/11/a.cpp](./Codeforces/11/a.cpp)\
@@ -254,6 +254,7 @@ A bunch of coding stuff
 [./Codeforces/961/b.cpp](./Codeforces/961/b.cpp)\
 [./FacebookHackercup/2020/qual/a.cpp](./FacebookHackercup/2020/qual/a.cpp)\
 [./FacebookHackercup/2020/qual/b.cpp](./FacebookHackercup/2020/qual/b.cpp)\
+[./FacebookHackercup/2020/qual/d1.cpp](./FacebookHackercup/2020/qual/d1.cpp)\
 [./USACOcontests/bronze/2011.12/escape.java](./USACOcontests/bronze/2011.12/escape.java)\
 [./USACOcontests/bronze/2012.11/cowfind.cpp](./USACOcontests/bronze/2012.11/cowfind.cpp)\
 [./USACOcontests/bronze/2016.12/cowsignal.cpp](./USACOcontests/bronze/2016.12/cowsignal.cpp)\
