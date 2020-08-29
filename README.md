@@ -1,13 +1,14 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 436
+### Total Files: 437
 [./CSES/IntroductoryProblems/weirdalgorithm.cpp](./CSES/IntroductoryProblems/weirdalgorithm.cpp)\
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
 [./Codeforces/11/a.cpp](./Codeforces/11/a.cpp)\
 [./Codeforces/110/a.cpp](./Codeforces/110/a.cpp)\
 [./Codeforces/112/a.cpp](./Codeforces/112/a.cpp)\
+[./Codeforces/1144/e.cpp](./Codeforces/1144/e.cpp)\
 [./Codeforces/116/a.cpp](./Codeforces/116/a.cpp)\
 [./Codeforces/116/c.cpp](./Codeforces/116/c.cpp)\
 [./Codeforces/1167/c.cpp](./Codeforces/1167/c.cpp)\
