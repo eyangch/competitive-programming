@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 448
+### Total Files: 449
 [./CSES/IntroductoryProblems/missingnumber.cpp](./CSES/IntroductoryProblems/missingnumber.cpp)\
 [./CSES/IntroductoryProblems/repetitions.cpp](./CSES/IntroductoryProblems/repetitions.cpp)\
 [./CSES/IntroductoryProblems/weirdalgorithm.cpp](./CSES/IntroductoryProblems/weirdalgorithm.cpp)\
@@ -288,6 +288,7 @@ A bunch of coding stuff
 [./USACOcontests/gold/2008.10/pwrfail.cpp](./USACOcontests/gold/2008.10/pwrfail.cpp)\
 [./USACOcontests/gold/2012.01/alliance.cpp](./USACOcontests/gold/2012.01/alliance.cpp)\
 [./USACOcontests/gold/2014.02/rblock.cpp](./USACOcontests/gold/2014.02/rblock.cpp)\
+[./USACOcontests/gold/2015.12/cardgame.cpp](./USACOcontests/gold/2015.12/cardgame.cpp)\
 [./USACOcontests/gold/2015.12/dream.cpp](./USACOcontests/gold/2015.12/dream.cpp)\
 [./USACOcontests/gold/2015.12/feast.cpp](./USACOcontests/gold/2015.12/feast.cpp)\
 [./USACOcontests/gold/2016.01/angry.cpp](./USACOcontests/gold/2016.01/angry.cpp)\
