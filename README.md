@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 477
+### Total Files: 478
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
 [./CSES/IntroductoryProblems/increasingarray.cpp](./CSES/IntroductoryProblems/increasingarray.cpp)\
 [./CSES/IntroductoryProblems/missingnumber.cpp](./CSES/IntroductoryProblems/missingnumber.cpp)\
@@ -351,6 +351,7 @@ A bunch of coding stuff
 [./USACOcontests/gold/2019.03/snakes.cpp](./USACOcontests/gold/2019.03/snakes.cpp)\
 [./USACOcontests/gold/2019.03/walk.cpp](./USACOcontests/gold/2019.03/walk.cpp)\
 [./USACOcontests/gold/2019.03/walk.py](./USACOcontests/gold/2019.03/walk.py)\
+[./USACOcontests/gold/2019.12/cowmbat.cpp](./USACOcontests/gold/2019.12/cowmbat.cpp)\
 [./USACOcontests/gold/2019.12/pump.cpp](./USACOcontests/gold/2019.12/pump.cpp)\
 [./USACOcontests/platnium/2016.01/fortmoo.cpp](./USACOcontests/platnium/2016.01/fortmoo.cpp)\
 [./USACOcontests/platnium/2016.03/262144.cpp](./USACOcontests/platnium/2016.03/262144.cpp)\
