@@ -1,13 +1,14 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 480
+### Total Files: 481
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
 [./CSES/IntroductoryProblems/increasingarray.cpp](./CSES/IntroductoryProblems/increasingarray.cpp)\
 [./CSES/IntroductoryProblems/missingnumber.cpp](./CSES/IntroductoryProblems/missingnumber.cpp)\
 [./CSES/IntroductoryProblems/numberspiral.cpp](./CSES/IntroductoryProblems/numberspiral.cpp)\
 [./CSES/IntroductoryProblems/permutations.cpp](./CSES/IntroductoryProblems/permutations.cpp)\
 [./CSES/IntroductoryProblems/repetitions.cpp](./CSES/IntroductoryProblems/repetitions.cpp)\
+[./CSES/IntroductoryProblems/trailingzeros.cpp](./CSES/IntroductoryProblems/trailingzeros.cpp)\
 [./CSES/IntroductoryProblems/twoknights.cpp](./CSES/IntroductoryProblems/twoknights.cpp)\
 [./CSES/IntroductoryProblems/twosets.cpp](./CSES/IntroductoryProblems/twosets.cpp)\
 [./CSES/IntroductoryProblems/weirdalgorithm.cpp](./CSES/IntroductoryProblems/weirdalgorithm.cpp)\
