@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 479
+### Total Files: 480
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
 [./CSES/IntroductoryProblems/increasingarray.cpp](./CSES/IntroductoryProblems/increasingarray.cpp)\
 [./CSES/IntroductoryProblems/missingnumber.cpp](./CSES/IntroductoryProblems/missingnumber.cpp)\
@@ -381,6 +381,7 @@ A bunch of coding stuff
 [./USACOcontests/silver/2015.12/highcard.cpp](./USACOcontests/silver/2015.12/highcard.cpp)\
 [./USACOcontests/silver/2015.12/lightson.cpp](./USACOcontests/silver/2015.12/lightson.cpp)\
 [./USACOcontests/silver/2016.01/angry.cpp](./USACOcontests/silver/2016.01/angry.cpp)\
+[./USACOcontests/silver/2016.01/div7.java](./USACOcontests/silver/2016.01/div7.java)\
 [./USACOcontests/silver/2016.02/balancing.cpp](./USACOcontests/silver/2016.02/balancing.cpp)\
 [./USACOcontests/silver/2016.02/cbarn.cpp](./USACOcontests/silver/2016.02/cbarn.cpp)\
 [./USACOcontests/silver/2016.03/closing.cpp](./USACOcontests/silver/2016.03/closing.cpp)\
