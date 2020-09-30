@@ -1,7 +1,8 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 485
+### Total Files: 486
+[./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
 [./CSES/IntroductoryProblems/coinpiles.cpp](./CSES/IntroductoryProblems/coinpiles.cpp)\
 [./CSES/IntroductoryProblems/creatingstrings1.cpp](./CSES/IntroductoryProblems/creatingstrings1.cpp)\
