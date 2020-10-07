@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 489
+### Total Files: 490
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
 [./CSES/IntroductoryProblems/chessboardandqueens.cpp](./CSES/IntroductoryProblems/chessboardandqueens.cpp)\
@@ -309,6 +309,7 @@ A bunch of coding stuff
 [./FacebookHackercup/2020/round1/a1.cpp](./FacebookHackercup/2020/round1/a1.cpp)\
 [./FacebookHackercup/2020/round1/b.cpp](./FacebookHackercup/2020/round1/b.cpp)\
 [./FacebookHackercup/2020/round2/a.cpp](./FacebookHackercup/2020/round2/a.cpp)\
+[./GoogleKickstart/2020A/allocation.cpp](./GoogleKickstart/2020A/allocation.cpp)\
 [./GoogleKickstart/2020E/highbuildings.cpp](./GoogleKickstart/2020E/highbuildings.cpp)\
 [./GoogleKickstart/2020E/longestarithmetic.cpp](./GoogleKickstart/2020E/longestarithmetic.cpp)\
 [./USACOcontests/bronze/2011.12/escape.java](./USACOcontests/bronze/2011.12/escape.java)\
