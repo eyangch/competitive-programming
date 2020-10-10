@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 494
+### Total Files: 495
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
 [./CSES/IntroductoryProblems/chessboardandqueens.cpp](./CSES/IntroductoryProblems/chessboardandqueens.cpp)\
@@ -229,6 +229,7 @@ A bunch of coding stuff
 [./Codeforces/1417/d.cpp](./Codeforces/1417/d.cpp)\
 [./Codeforces/1417/e.cpp](./Codeforces/1417/e.cpp)\
 [./Codeforces/1418/d.cpp](./Codeforces/1418/d.cpp)\
+[./Codeforces/1419/e.cpp](./Codeforces/1419/e.cpp)\
 [./Codeforces/152/c.cpp](./Codeforces/152/c.cpp)\
 [./Codeforces/160/a.cpp](./Codeforces/160/a.cpp)\
 [./Codeforces/166/a.cpp](./Codeforces/166/a.cpp)\
