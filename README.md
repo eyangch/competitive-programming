@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 495
+### Total Files: 496
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
 [./CSES/IntroductoryProblems/chessboardandqueens.cpp](./CSES/IntroductoryProblems/chessboardandqueens.cpp)\
@@ -496,4 +496,5 @@ A bunch of coding stuff
 [./templates/BIT.cpp](./templates/BIT.cpp)\
 [./templates/dijkstra_elogv.cpp](./templates/dijkstra_elogv.cpp)\
 [./templates/dsu.cpp](./templates/dsu.cpp)\
+[./templates/nCr.cpp](./templates/nCr.cpp)\
 [./templates/template.cpp](./templates/template.cpp)
