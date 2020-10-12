@@ -1,7 +1,8 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 497
+### Total Files: 498
+[./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
 [./CSES/IntroductoryProblems/chessboardandqueens.cpp](./CSES/IntroductoryProblems/chessboardandqueens.cpp)\
