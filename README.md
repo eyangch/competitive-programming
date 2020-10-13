@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 498
+### Total Files: 499
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
 [./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
@@ -319,6 +319,7 @@ A bunch of coding stuff
 [./GoogleKickstart/2020A/workout.cpp](./GoogleKickstart/2020A/workout.cpp)\
 [./GoogleKickstart/2020E/highbuildings.cpp](./GoogleKickstart/2020E/highbuildings.cpp)\
 [./GoogleKickstart/2020E/longestarithmetic.cpp](./GoogleKickstart/2020E/longestarithmetic.cpp)\
+[./IOI/2006/writing.cpp](./IOI/2006/writing.cpp)\
 [./USACOcontests/bronze/2011.12/escape.java](./USACOcontests/bronze/2011.12/escape.java)\
 [./USACOcontests/bronze/2012.11/cowfind.cpp](./USACOcontests/bronze/2012.11/cowfind.cpp)\
 [./USACOcontests/bronze/2016.12/cowsignal.cpp](./USACOcontests/bronze/2016.12/cowsignal.cpp)\
