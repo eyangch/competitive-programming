@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 516
+### Total Files: 517
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
@@ -387,6 +387,7 @@ A bunch of coding stuff
 [./USACOcontests/gold/2019.12/pump.cpp](./USACOcontests/gold/2019.12/pump.cpp)\
 [./USACOcontests/platnium/2016.01/fortmoo.cpp](./USACOcontests/platnium/2016.01/fortmoo.cpp)\
 [./USACOcontests/platnium/2016.03/262144.cpp](./USACOcontests/platnium/2016.03/262144.cpp)\
+[./USACOcontests/platnium/2016.12/team.cpp](./USACOcontests/platnium/2016.12/team.cpp)\
 [./USACOcontests/platnium/2017.01/promote.cpp](./USACOcontests/platnium/2017.01/promote.cpp)\
 [./USACOcontests/silver/2006.03/counfr.cpp](./USACOcontests/silver/2006.03/counfr.cpp)\
 [./USACOcontests/silver/2007.03/expense.cpp](./USACOcontests/silver/2007.03/expense.cpp)\
