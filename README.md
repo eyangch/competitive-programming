@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 521
+### Total Files: 522
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
@@ -318,6 +318,7 @@ A bunch of coding stuff
 [./Codeforces/959/b.cpp](./Codeforces/959/b.cpp)\
 [./Codeforces/96/a.cpp](./Codeforces/96/a.cpp)\
 [./Codeforces/961/b.cpp](./Codeforces/961/b.cpp)\
+[./Codeforces/acmsguru/112.java](./Codeforces/acmsguru/112.java)\
 [./FacebookHackercup/2019/round2/a.cpp](./FacebookHackercup/2019/round2/a.cpp)\
 [./FacebookHackercup/2020/qual/a.cpp](./FacebookHackercup/2020/qual/a.cpp)\
 [./FacebookHackercup/2020/qual/b.cpp](./FacebookHackercup/2020/qual/b.cpp)\
