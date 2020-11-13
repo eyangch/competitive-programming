@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 528
+### Total Files: 529
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
@@ -525,6 +525,7 @@ A bunch of coding stuff
 [./USACOtraining/4.2/job.cpp](./USACOtraining/4.2/job.cpp)\
 [./USACOtraining/4.2/stall4.cpp](./USACOtraining/4.2/stall4.cpp)\
 [./USACOtraining/4.3/buylow.java](./USACOtraining/4.3/buylow.java)\
+[./USACOtraining/4.3/race3.java](./USACOtraining/4.3/race3.java)\
 [./templates/BIT.cpp](./templates/BIT.cpp)\
 [./templates/dijkstra_elogv.cpp](./templates/dijkstra_elogv.cpp)\
 [./templates/dsu.cpp](./templates/dsu.cpp)\
