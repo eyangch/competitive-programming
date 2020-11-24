@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 #define f first
 #define s second
+#define endl "\n"
 
 using namespace std;
 
@@ -16,7 +17,7 @@ ostream &operator <<(ostream &os, set<T> s){for(T i : s) os << i << ", "; return
 template <typename T1, typename T2>
 ostream &operator <<(ostream &os, map<T1, T2> m){for(pair<T1, T2> i : m) os << i << endl; return os;}
 
-int main(){
+signed main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL); 
     return 0;
