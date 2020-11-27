@@ -1,34 +1,35 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 541
+### Total Files: 542
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
-[./CSES/AdditionalProblems/maximumxorsubarray.cpp](./CSES/AdditionalProblems/maximumxorsubarray.cpp)\
-[./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
-[./CSES/IntroductoryProblems/bitstrings.cpp](./CSES/IntroductoryProblems/bitstrings.cpp)\
-[./CSES/IntroductoryProblems/chessboardandqueens.cpp](./CSES/IntroductoryProblems/chessboardandqueens.cpp)\
-[./CSES/IntroductoryProblems/coinpiles.cpp](./CSES/IntroductoryProblems/coinpiles.cpp)\
-[./CSES/IntroductoryProblems/creatingstrings1.cpp](./CSES/IntroductoryProblems/creatingstrings1.cpp)\
-[./CSES/IntroductoryProblems/increasingarray.cpp](./CSES/IntroductoryProblems/increasingarray.cpp)\
-[./CSES/IntroductoryProblems/missingnumber.cpp](./CSES/IntroductoryProblems/missingnumber.cpp)\
-[./CSES/IntroductoryProblems/numberspiral.cpp](./CSES/IntroductoryProblems/numberspiral.cpp)\
-[./CSES/IntroductoryProblems/palindromereorder.cpp](./CSES/IntroductoryProblems/palindromereorder.cpp)\
-[./CSES/IntroductoryProblems/permutations.cpp](./CSES/IntroductoryProblems/permutations.cpp)\
-[./CSES/IntroductoryProblems/repetitions.cpp](./CSES/IntroductoryProblems/repetitions.cpp)\
-[./CSES/IntroductoryProblems/trailingzeros.cpp](./CSES/IntroductoryProblems/trailingzeros.cpp)\
-[./CSES/IntroductoryProblems/twoknights.cpp](./CSES/IntroductoryProblems/twoknights.cpp)\
-[./CSES/IntroductoryProblems/twosets.cpp](./CSES/IntroductoryProblems/twosets.cpp)\
-[./CSES/IntroductoryProblems/weirdalgorithm.cpp](./CSES/IntroductoryProblems/weirdalgorithm.cpp)\
+[./CSES/Additional_Problems/maximum_xor_subarray.cpp](./CSES/Additional_Problems/maximum_xor_subarray.cpp)\
+[./CSES/Introductory_Problems/apple_division.cpp](./CSES/Introductory_Problems/apple_division.cpp)\
+[./CSES/Introductory_Problems/bit_strings.cpp](./CSES/Introductory_Problems/bit_strings.cpp)\
+[./CSES/Introductory_Problems/chessboard_and_queens.cpp](./CSES/Introductory_Problems/chessboard_and_queens.cpp)\
+[./CSES/Introductory_Problems/coin_piles.cpp](./CSES/Introductory_Problems/coin_piles.cpp)\
+[./CSES/Introductory_Problems/creating_strings_i.cpp](./CSES/Introductory_Problems/creating_strings_i.cpp)\
+[./CSES/Introductory_Problems/increasing_array.cpp](./CSES/Introductory_Problems/increasing_array.cpp)\
+[./CSES/Introductory_Problems/missing_number.cpp](./CSES/Introductory_Problems/missing_number.cpp)\
+[./CSES/Introductory_Problems/number_spiral.cpp](./CSES/Introductory_Problems/number_spiral.cpp)\
+[./CSES/Introductory_Problems/palindrome_reorder.cpp](./CSES/Introductory_Problems/palindrome_reorder.cpp)\
+[./CSES/Introductory_Problems/permutations.cpp](./CSES/Introductory_Problems/permutations.cpp)\
+[./CSES/Introductory_Problems/repetitions.cpp](./CSES/Introductory_Problems/repetitions.cpp)\
+[./CSES/Introductory_Problems/trailing_zeros.cpp](./CSES/Introductory_Problems/trailing_zeros.cpp)\
+[./CSES/Introductory_Problems/two_knights.cpp](./CSES/Introductory_Problems/two_knights.cpp)\
+[./CSES/Introductory_Problems/two_sets.cpp](./CSES/Introductory_Problems/two_sets.cpp)\
+[./CSES/Introductory_Problems/weird_algorithm.cpp](./CSES/Introductory_Problems/weird_algorithm.cpp)\
 [./CSES/Mathematics/exponentation.cpp](./CSES/Mathematics/exponentation.cpp)\
-[./CSES/Mathematics/exponentation2.cpp](./CSES/Mathematics/exponentation2.cpp)\
-[./CSES/SortingAndSearching/apartments.cpp](./CSES/SortingAndSearching/apartments.cpp)\
-[./CSES/SortingAndSearching/concerttickets.cpp](./CSES/SortingAndSearching/concerttickets.cpp)\
-[./CSES/SortingAndSearching/distinctnumbers.cpp](./CSES/SortingAndSearching/distinctnumbers.cpp)\
-[./CSES/SortingAndSearching/ferriswheel.cpp](./CSES/SortingAndSearching/ferriswheel.cpp)\
-[./CSES/SortingAndSearching/moviefestival.cpp](./CSES/SortingAndSearching/moviefestival.cpp)\
-[./CSES/SortingAndSearching/restaurantcustomers.cpp](./CSES/SortingAndSearching/restaurantcustomers.cpp)\
-[./CSES/SortingAndSearching/sumoftwovalues.cpp](./CSES/SortingAndSearching/sumoftwovalues.cpp)\
+[./CSES/Mathematics/exponentation_ii.cpp](./CSES/Mathematics/exponentation_ii.cpp)\
+[./CSES/Sorting_and_Searching/apartments.cpp](./CSES/Sorting_and_Searching/apartments.cpp)\
+[./CSES/Sorting_and_Searching/concert_tickets.cpp](./CSES/Sorting_and_Searching/concert_tickets.cpp)\
+[./CSES/Sorting_and_Searching/distinct_numbers.cpp](./CSES/Sorting_and_Searching/distinct_numbers.cpp)\
+[./CSES/Sorting_and_Searching/ferris_wheel.cpp](./CSES/Sorting_and_Searching/ferris_wheel.cpp)\
+[./CSES/Sorting_and_Searching/maximum_subarray_sum.cpp](./CSES/Sorting_and_Searching/maximum_subarray_sum.cpp)\
+[./CSES/Sorting_and_Searching/movie_festival.cpp](./CSES/Sorting_and_Searching/movie_festival.cpp)\
+[./CSES/Sorting_and_Searching/restaurant_customers.cpp](./CSES/Sorting_and_Searching/restaurant_customers.cpp)\
+[./CSES/Sorting_and_Searching/sum_of_two_values.cpp](./CSES/Sorting_and_Searching/sum_of_two_values.cpp)\
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
 [./Codeforces/10/a.cpp](./Codeforces/10/a.cpp)\
 [./Codeforces/1029/d.cpp](./Codeforces/1029/d.cpp)\
