@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 543
+### Total Files: 544
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/Additional_Problems/maximum_xor_subarray.cpp](./CSES/Additional_Problems/maximum_xor_subarray.cpp)\
@@ -28,6 +28,7 @@ A bunch of coding stuff
 [./CSES/Sorting_and_Searching/ferris_wheel.cpp](./CSES/Sorting_and_Searching/ferris_wheel.cpp)\
 [./CSES/Sorting_and_Searching/maximum_subarray_sum.cpp](./CSES/Sorting_and_Searching/maximum_subarray_sum.cpp)\
 [./CSES/Sorting_and_Searching/movie_festival.cpp](./CSES/Sorting_and_Searching/movie_festival.cpp)\
+[./CSES/Sorting_and_Searching/playlist.cpp](./CSES/Sorting_and_Searching/playlist.cpp)\
 [./CSES/Sorting_and_Searching/restaurant_customers.cpp](./CSES/Sorting_and_Searching/restaurant_customers.cpp)\
 [./CSES/Sorting_and_Searching/stick_lengths.cpp](./CSES/Sorting_and_Searching/stick_lengths.cpp)\
 [./CSES/Sorting_and_Searching/sum_of_two_values.cpp](./CSES/Sorting_and_Searching/sum_of_two_values.cpp)\
