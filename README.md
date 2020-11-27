@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 536
+### Total Files: 537
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/IntroductoryProblems/appledivision.cpp](./CSES/IntroductoryProblems/appledivision.cpp)\
@@ -22,6 +22,7 @@ A bunch of coding stuff
 [./CSES/Mathematics/exponentation.cpp](./CSES/Mathematics/exponentation.cpp)\
 [./CSES/Mathematics/exponentation2.cpp](./CSES/Mathematics/exponentation2.cpp)\
 [./CSES/SortingAndSearching/apartments.cpp](./CSES/SortingAndSearching/apartments.cpp)\
+[./CSES/SortingAndSearching/concerttickets.cpp](./CSES/SortingAndSearching/concerttickets.cpp)\
 [./CSES/SortingAndSearching/distinctnumbers.cpp](./CSES/SortingAndSearching/distinctnumbers.cpp)\
 [./CSES/SortingAndSearching/ferriswheel.cpp](./CSES/SortingAndSearching/ferriswheel.cpp)\
 [./Codeforces/1/a.cpp](./Codeforces/1/a.cpp)\
