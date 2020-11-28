@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 548
+### Total Files: 549
 [./AtCoder/abc169/d.cpp](./AtCoder/abc169/d.cpp)\
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
@@ -22,6 +22,7 @@ A bunch of coding stuff
 [./CSES/Introductory_Problems/two_sets.cpp](./CSES/Introductory_Problems/two_sets.cpp)\
 [./CSES/Introductory_Problems/weird_algorithm.cpp](./CSES/Introductory_Problems/weird_algorithm.cpp)\
 [./CSES/Mathematics/common_divisors.cpp](./CSES/Mathematics/common_divisors.cpp)\
+[./CSES/Mathematics/counting_divisors.cpp](./CSES/Mathematics/counting_divisors.cpp)\
 [./CSES/Mathematics/exponentation.cpp](./CSES/Mathematics/exponentation.cpp)\
 [./CSES/Mathematics/exponentation_ii.cpp](./CSES/Mathematics/exponentation_ii.cpp)\
 [./CSES/Sorting_and_Searching/apartments.cpp](./CSES/Sorting_and_Searching/apartments.cpp)\
