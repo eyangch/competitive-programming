@@ -1,7 +1,8 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 546
+### Total Files: 547
+[./AtCoder/abc169/d.cpp](./AtCoder/abc169/d.cpp)\
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/Additional_Problems/maximum_xor_subarray.cpp](./CSES/Additional_Problems/maximum_xor_subarray.cpp)\
