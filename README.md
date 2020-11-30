@@ -1,11 +1,12 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 555
+### Total Files: 556
 [./AtCoder/abc169/d.cpp](./AtCoder/abc169/d.cpp)\
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/Additional_Problems/maximum_xor_subarray.cpp](./CSES/Additional_Problems/maximum_xor_subarray.cpp)\
+[./CSES/Dynamic_Programming/book_shop.cpp](./CSES/Dynamic_Programming/book_shop.cpp)\
 [./CSES/Dynamic_Programming/coin_combinations_i.cpp](./CSES/Dynamic_Programming/coin_combinations_i.cpp)\
 [./CSES/Dynamic_Programming/coin_combinations_ii.cpp](./CSES/Dynamic_Programming/coin_combinations_ii.cpp)\
 [./CSES/Dynamic_Programming/dice_combinations.cpp](./CSES/Dynamic_Programming/dice_combinations.cpp)\
