@@ -1,7 +1,25 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 560
+### Total Files: 578
+[./AdventOfCode/day1/input.txt](./AdventOfCode/day1/input.txt)\
+[./AdventOfCode/day1/reportrepair.cpp](./AdventOfCode/day1/reportrepair.cpp)\
+[./AdventOfCode/day1/reportrepair2.cpp](./AdventOfCode/day1/reportrepair2.cpp)\
+[./AdventOfCode/day2/1.cpp](./AdventOfCode/day2/1.cpp)\
+[./AdventOfCode/day2/2.cpp](./AdventOfCode/day2/2.cpp)\
+[./AdventOfCode/day2/input.txt](./AdventOfCode/day2/input.txt)\
+[./AdventOfCode/day3/1.cpp](./AdventOfCode/day3/1.cpp)\
+[./AdventOfCode/day3/2.cpp](./AdventOfCode/day3/2.cpp)\
+[./AdventOfCode/day3/input.txt](./AdventOfCode/day3/input.txt)\
+[./AdventOfCode/day4/1.cpp](./AdventOfCode/day4/1.cpp)\
+[./AdventOfCode/day4/2.cpp](./AdventOfCode/day4/2.cpp)\
+[./AdventOfCode/day4/input.txt](./AdventOfCode/day4/input.txt)\
+[./AdventOfCode/day5/1.cpp](./AdventOfCode/day5/1.cpp)\
+[./AdventOfCode/day5/2.cpp](./AdventOfCode/day5/2.cpp)\
+[./AdventOfCode/day5/input.txt](./AdventOfCode/day5/input.txt)\
+[./AdventOfCode/day6/1.cpp](./AdventOfCode/day6/1.cpp)\
+[./AdventOfCode/day6/2.cpp](./AdventOfCode/day6/2.cpp)\
+[./AdventOfCode/day6/input.txt](./AdventOfCode/day6/input.txt)\
 [./AtCoder/abc169/d.cpp](./AtCoder/abc169/d.cpp)\
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
