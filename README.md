@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 578
+### Total Files: 581
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
 [./AdventOfCode/2020/day1/reportrepair2.cpp](./AdventOfCode/2020/day1/reportrepair2.cpp)\
@@ -20,6 +20,9 @@ A bunch of coding stuff
 [./AdventOfCode/2020/day6/1.cpp](./AdventOfCode/2020/day6/1.cpp)\
 [./AdventOfCode/2020/day6/2.cpp](./AdventOfCode/2020/day6/2.cpp)\
 [./AdventOfCode/2020/day6/input.txt](./AdventOfCode/2020/day6/input.txt)\
+[./AdventOfCode/2020/day7/1.cpp](./AdventOfCode/2020/day7/1.cpp)\
+[./AdventOfCode/2020/day7/2.cpp](./AdventOfCode/2020/day7/2.cpp)\
+[./AdventOfCode/2020/day7/input.txt](./AdventOfCode/2020/day7/input.txt)\
 [./AtCoder/abc169/d.cpp](./AtCoder/abc169/d.cpp)\
 [./CEOI/2017/bet.cpp](./CEOI/2017/bet.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
