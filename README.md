@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 585
+### Total Files: 586
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
 [./AdventOfCode/2020/day1/reportrepair2.cpp](./AdventOfCode/2020/day1/reportrepair2.cpp)\
@@ -485,6 +485,7 @@ A bunch of coding stuff
 [./USACOcontests/silver/2016.03/diamond.cpp](./USACOcontests/silver/2016.03/diamond.cpp)\
 [./USACOcontests/silver/2016.12/citystate.cpp](./USACOcontests/silver/2016.12/citystate.cpp)\
 [./USACOcontests/silver/2016.12/haybales.cpp](./USACOcontests/silver/2016.12/haybales.cpp)\
+[./USACOcontests/silver/2016.12/haybales_2.cpp](./USACOcontests/silver/2016.12/haybales_2.cpp)\
 [./USACOcontests/silver/2016.12/moocast.cpp](./USACOcontests/silver/2016.12/moocast.cpp)\
 [./USACOcontests/silver/2017.01/cowcode.cpp](./USACOcontests/silver/2017.01/cowcode.cpp)\
 [./USACOcontests/silver/2017.01/cowcode.java](./USACOcontests/silver/2017.01/cowcode.java)\
