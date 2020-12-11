@@ -2,29 +2,25 @@
 
 using namespace std;
 
-typedef pair<int, int> pii;
-
-int find(int u, int (&par)[100000]){
+int find(int u){
     if(par[u] == u){
         return u;
     }
-    par[u] = find(par[u], par);
+    par[u] = find(par[u]);
     return par[u];
 }
 
-void un(int u, int v, int (&par)[100000], int (&sz)[100000]){
-    u = find(u, par);
-    v = find(v, par);
+void un(int u, int v){
+    u = find(u);
+    v = find(v);
     if(u == v){
         return;
     }
-    if(sz[u] < sz[v]){
-        par[u] = v;
-        sz[v] += sz[u];
-    }else{
-        par[v] = u;
-        sz[u] += sz[v];
+    if(sz[u] > sz[v]){
+        swap(u, v);
     }
+    par[u] = v;
+    sz[v] += sz[u];
 }
 
 int main(){
