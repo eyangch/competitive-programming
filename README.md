@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 618
+### Total Files: 619
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
 [./AdventOfCode/2020/day1/reportrepair2.cpp](./AdventOfCode/2020/day1/reportrepair2.cpp)\
@@ -472,6 +472,7 @@ A bunch of coding stuff
 [./USACOcontests/gold/2019.03/walk.py](./USACOcontests/gold/2019.03/walk.py)\
 [./USACOcontests/gold/2019.12/cowmbat.cpp](./USACOcontests/gold/2019.12/cowmbat.cpp)\
 [./USACOcontests/gold/2019.12/pump.cpp](./USACOcontests/gold/2019.12/pump.cpp)\
+[./USACOcontests/gold/2020.01/threesum.cpp](./USACOcontests/gold/2020.01/threesum.cpp)\
 [./USACOcontests/gold/2020.01/time.cpp](./USACOcontests/gold/2020.01/time.cpp)\
 [./USACOcontests/gold/2020.02/help.cpp](./USACOcontests/gold/2020.02/help.cpp)\
 [./USACOcontests/gold/2020.02/timeline.cpp](./USACOcontests/gold/2020.02/timeline.cpp)\
