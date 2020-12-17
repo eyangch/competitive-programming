@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 620
+### Total Files: 623
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
 [./AdventOfCode/2020/day1/reportrepair2.cpp](./AdventOfCode/2020/day1/reportrepair2.cpp)\
@@ -617,6 +617,9 @@ A bunch of coding stuff
 [./USACOtraining/4.2/stall4.cpp](./USACOtraining/4.2/stall4.cpp)\
 [./USACOtraining/4.3/buylow.java](./USACOtraining/4.3/buylow.java)\
 [./USACOtraining/4.3/race3.java](./USACOtraining/4.3/race3.java)\
+[./docs/index.html](./docs/index.html)\
+[./docs/pathconstruction.html](./docs/pathconstruction.html)\
+[./docs/scarybulls.html](./docs/scarybulls.html)\
 [./templates/BIT.cpp](./templates/BIT.cpp)\
 [./templates/dijkstra_elogv.cpp](./templates/dijkstra_elogv.cpp)\
 [./templates/dsu.cpp](./templates/dsu.cpp)\

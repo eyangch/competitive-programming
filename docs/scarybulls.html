@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Scary Bulls</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+                extensions: ["tex2jax.js"],
+                jax: ["input/TeX", "output/HTML-CSS"],
+                tex2jax: {
+                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                    processEscapes: true
+                },
+                "HTML-CSS": { fonts: ["TeX"] }
+            });
+        </script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script type="text/javascript" src="https://blueimp.github.io/JavaScript-MD5/js/md5.js"></script>
+    </head>
+    <body>
+        <div class="container" style="border: 2px solid; line-height: 1.2">
+            <p></p>            
+            <p><a href="index.html">Back</a></p>
+            <h1>Scary Bulls</h1>
+            <p>A USACO Themed Problem by Eric Yang</p>
+            <p>Estimated Difficulty: USACO Silver / Codeforces 1600</p>
+            <h4>Problem Statement</h4>
+            <p>Bessie the cow is lost in Farmer John's farm, which can be represented as a series of $N$ barns $(1\leq N\leq4\cdot10^{5})$ numbered $1...N$ connected by $N-1$ bidirectional pathways. Bessie starts at room $K$ $(1\leq K\leq N)$ and wants to get to Farmer John's home, located at barn $1$. Each minute, Bessie can either do nothing or move to an adjacent room.</p>
+            <p>Scattered around the farm are $M$ bulls $(0\leq M\leq N)$, located in different barns. Each minute, these bulls always move to an adjacent barn that leads them closer to the Farmer John's house. One minute after reaching Farmer John's house, the bulls walk behind the barn to sleep.</p>
+            <p>However, Bessie has a fear of bulls, meaning that if Bessie and one or multiple bulls are present in a barn, including Farmer John's house, at the same minute, then Bessie will faint of shock. Note that bulls functionally disappear one minute after reaching Farmer John's house. If Bessie chooses to do nothing during a turn, she can hide in the corner, causing bulls to have no effect on her.</p>
+            <p>Determine the minimum number of minutes (the first move starts at minute $1$) for Bessie to reach Farmer John's house without fainting.</p>
+            <h4>Input Format</h4>
+            <p>The first line contains $T$, the number of testcases.</p>
+            <p>In each testcase:</p>
+            <p>The first line contains integers $N$, $M$, and $K$.</p>
+            <p>The next $N-1$ lines contain barns $u$ and $v$, indicating that there is a path between barns $u$ and $v$.</p>
+            <p>The next $M$ lines contain barn $x$, a room with a bull.</p>
+            <h4>Output Format</h4>
+            <p>Print the answer for all $T$ testcases. For each testcase, print "TESTCASE" (without the quotes) on the first line. On the next line, print the minimum minutes elapsed until Bessie reaches Farmer John's house (the first move can occur at minute $1$).</p>
+            <h4>Sample Input</h4>
+            <p>2</br>7 4 4</br>1 2</br>2 3</br>2 4</br>4 5</br>4 6</br>4 7</br>2</br>3</br>6</br>7</br>6 2 3</br>1 2</br>1 3</br>3 4</br>3 5</br>4 6<br>2</br>6</p>
+            <h4>Sample Output</h4>
+            <p>TESTCASE</br>4</br>TESTCASE</br>2</p>
+            <h4>Output Explanation</h4>
+            <p>For the first test case, Bessie can hide in the corner at times $1$ and $2$. Starting at time $3$, she can finally move all the way to Farmer John's house without interruptions, making her final move at $4$ minutes.</p>
+            <h4>Test Data:</h4>
+            <button onclick="download()">Download Test Data!</button>
+            <p></p>            
+            <h4>Enter Numerical Answer</h4>
+            <textarea id="soln" style="width: 100%; height:200px"></textarea>
+            <button onclick="test()">Submit!</button>
+            <p></p>
+            <h5>Results:</h5>
+            <div id="res"></div>            
+            <p></p>
+            <script type="text/javascript">
+                function test(){
+                    var text = document.getElementById("soln").value;
+                    while(text.charAt(text.length-1) == "\n"){
+                        text = text.slice(0, -1);
+                    }
+                    text = "\n" + text;
+                    var tcs = text.split("\nTESTCASE\n").slice(1);
+                    console.log(tcs);
+                    var ans_hash = ["a87ff679a2f3e71d9181a67b7542122c",
+                                    "c81e728d9d4c2f636f067f89cc14862c",
+                                    "cfcd208495d565ef66e7dff9f98764da",
+                                    "9bf31c7ff062936a96d3c8bd1f8f2ff3",
+                                    "d3d9446802a44259755d38e6d163e820",
+                                    "aab3238922bcc25a6f606eb525ffdc56",
+                                    "3c59dc048e8850243be8079a5c74d079",
+                                    "37693cfc748049e45d87b8c7d8b9aacd",
+                                    "2a3a2d28294f5c0cf89b066a8d0f9e17"];
+                    var uhash = [];
+                    for(var i = 0; i < tcs.length; i++){
+                        uhash[i] = md5(tcs[i]);
+                    }
+                    var res = document.getElementById("res");
+                    if(uhash.length != ans_hash.length){
+                        res.innerHTML = '<p style="border: 3px solid red;">❌ Bad Formatting (Incorrect Number of Cases)</p>';
+                        return;
+                    }
+                    if(JSON.stringify(uhash) === JSON.stringify(ans_hash)){
+                        res.innerHTML = '<p style="border: 3px solid green;">✔️ AC (Accepted)</br></p>';
+                    }else{
+                        res.innerHTML = '<p style="border: 3px solid red;">❌ WA (Wrong Answer)</br></p>';
+                    }
+                    for(var i = 0; i < uhash.length; i++){
+                        if(uhash[i] == ans_hash[i]){
+                            res.innerHTML += '<p style="margin: 5px; border: 2px solid green;">Testcase ' + (i+1).toString() + " ✔️</p>";
+                        }else{
+                            res.innerHTML += '<p style="margin: 5px; border: 2px solid red;">Testcase ' + (i+1).toString() + " ❌</p>";
+                        }
+                    }
+                }
+                function download(){
+                    open("https://drive.google.com/uc?export=download&id=17EIFEFDIS7Z8hnFjnrGEITLdAUM5frGl");
+                }
+            </script>
+        </div>
+    </body>
+</html>

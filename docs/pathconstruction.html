@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Path Construction</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+                extensions: ["tex2jax.js"],
+                jax: ["input/TeX", "output/HTML-CSS"],
+                tex2jax: {
+                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                    processEscapes: true
+                },
+                "HTML-CSS": { fonts: ["TeX"] }
+            });
+        </script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script type="text/javascript" src="https://blueimp.github.io/JavaScript-MD5/js/md5.js"></script>
+    </head>
+    <body>
+        <div class="container" style="border: 2px solid; line-height: 1.2">
+            <p></p>            
+            <p><a href="index.html">Back</a></p>
+            <h1>Path Construction</h1>
+            <p>A USACO Themed Problem by Eric Yang</p>
+            <p>Estimated Difficulty: USACO Gold / Codeforces 2100</p>
+            <h4>Problem Statement</h4>
+            <p>Bessie is located in Farmer John's barn, which contains $N$ rooms $(2\leq N\leq10^{5})$, conveniently numbered $1...N$, and $M$ corridors $(N-1\leq M\leq2\cdot10^{5})$. These corridors connect pairs of rooms such that the barn is connected (each room is reachable from any other room). There can be multiple corridors connecting two rooms, and a corridor can connect a room to itself.</p>
+            <p>Each of these $M$ corridors has a digital display with an integer $x_{i}$ on it $(0\leq x_{i}\leq10^{9})$. Every time Bessie walks through a corridor, the corresponding $x_{i}$ is decremented by one.</p>
+            <p>Bessie wants to rennovate the barn by adding some corridors. She wants to perfect the barn's design, so she wants you to answer $Q$ queries $(1\leq Q\leq10^{5})$ concerning the barn.</p>
+            <p>For each query, you are given an integer $y$ $(0\leq y\leq10^{9})$. You want to figure out the minimum number of corridors Bessie has to build in order such that for all rooms $1...N$, Bessie can start at that room and set all $x_{i}$ to $y$ by walking through a series of corridors.</p>
+            <h4>Input Format</h4>
+            <p>The first line contains $T$, the number of testcases.</p>
+            <p>In each testcase:</p>
+            <p>The first line contains three integers, $N$, $M$, and $Q$.</p>
+            <p>The next $M$ lines contain descriptions of the corridors. The descriptions are composed of three integers, $a$, $b$, and $x_{i}$ $(1\leq a,b\leq N)$. The corridor connects rooms $a$ and $b$, and the display inside starts with $x_{i}$.</p>
+            <p>The next $Q$ lines describe the queries. Each query has one integer, $y$, the value Bessie wants to set all $x_{i}$ to.</p>
+            <h4>Output Format</h4>
+            <p>Print the answer for all $T$ testcases. For each testcase, print "TESTCASE" (without the quotes) on the first line. On the following lines, with one line per query, print the minimum number of corridors that have to be built in order for it to be possible that Bessie can make all $x_{i}$ equal to $y$ starting from any room.</p>
+            <h4>Sample Input</h4>
+            <p>1</br>5 7 2</br>1 2 3</br>2 3 2</br>2 4 1</br>3 1 4</br>3 4 2</br>5 2 3</br>4 5 5 </br>0 </br>3</p>
+            <h4>Sample Output</h4>
+            <p>TESTCASE</br>1</br>2</p>
+            <h4>Test Data:</h4>
+            <button onclick="download()">Download Test Data!</button>
+            <p></p>            
+            <h4>Enter Numerical Answer</h4>
+            <textarea id="soln" style="width: 100%; height:200px"></textarea>
+            <button onclick="test()">Submit!</button>
+            <p></p>
+            <h5>Results:</h5>
+            <div id="res"></div>            
+            <p></p>
+            <script type="text/javascript">
+                function test(){
+                    var text = document.getElementById("soln").value;
+                    while(text.charAt(text.length-1) == "\n"){
+                        text = text.slice(0, -1);
+                    }
+                    text = "\n" + text;
+                    var tcs = text.split("\nTESTCASE\n").slice(1);
+                    console.log(tcs);
+                    var ans_hash = ["d23a4199c2168563f580b419f6c7dd40",
+                                    "e5f5edd5639bbb578681baacabcf0260",
+                                    "912c9e5e5a7dee4288779ad6807bf8f0",
+                                    "860c3f7c6c40bb811992610cc8950024",
+                                    "5759e5088e675b2261489ecdeb5f20e9"];
+                    var uhash = [];
+                    for(var i = 0; i < tcs.length; i++){
+                        uhash[i] = md5(tcs[i]);
+                    }
+                    console.log(uhash);
+                    var res = document.getElementById("res");
+                    if(uhash.length != ans_hash.length){
+                        res.innerHTML = '<p style="border: 3px solid red;">❌ Bad Formatting (Incorrect Number of Cases)</p>';
+                        return;
+                    }
+                    if(JSON.stringify(uhash) === JSON.stringify(ans_hash)){
+                        res.innerHTML = '<p style="border: 3px solid green;">✔️ AC (Accepted)</br></p>';
+                    }else{
+                        res.innerHTML = '<p style="border: 3px solid red;">❌ WA (Wrong Answer)</br></p>';
+                    }
+                    for(var i = 0; i < uhash.length; i++){
+                        if(uhash[i] == ans_hash[i]){
+                            res.innerHTML += '<p style="margin: 5px; border: 2px solid green;">Testcase ' + (i+1).toString() + " ✔️</p>";
+                        }else{
+                            res.innerHTML += '<p style="margin: 5px; border: 2px solid red;">Testcase ' + (i+1).toString() + " ❌</p>";
+                        }
+                    }
+                }
+                function download(){
+                    open("https://drive.google.com/uc?export=download&id=1YOV1ZJfK47MhX_ACpu1dD6rZ4ZxV8Bhl");
+                }
+            </script>
+        </div>
+    </body>
+</html>
