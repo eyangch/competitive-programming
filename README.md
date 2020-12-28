@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 657
+### Total Files: 658
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -79,6 +79,7 @@ A bunch of coding stuff
 [./CSES/Graph_Algorithms/shortest_routes_i.cpp](./CSES/Graph_Algorithms/shortest_routes_i.cpp)\
 [./CSES/Graph_Algorithms/shortest_routes_ii.cpp](./CSES/Graph_Algorithms/shortest_routes_ii.cpp)\
 [./CSES/Introductory_Problems/apple_division.cpp](./CSES/Introductory_Problems/apple_division.cpp)\
+[./CSES/Introductory_Problems/bit_strings.asm](./CSES/Introductory_Problems/bit_strings.asm)\
 [./CSES/Introductory_Problems/bit_strings.cpp](./CSES/Introductory_Problems/bit_strings.cpp)\
 [./CSES/Introductory_Problems/chessboard_and_queens.cpp](./CSES/Introductory_Problems/chessboard_and_queens.cpp)\
 [./CSES/Introductory_Problems/coin_piles.cpp](./CSES/Introductory_Problems/coin_piles.cpp)\
