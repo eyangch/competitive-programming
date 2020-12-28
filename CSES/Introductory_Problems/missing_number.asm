@@ -1,18 +1,27 @@
+; CSES Missing Number Fastest Submission on 12/28/2020
+
 section .bss
-    buffer: resb 2000000
+    buffer: resb 1300000
     outbuff: resb 64
     N: resb 8
     cntN: resb 8
     csum: resb 8
-    tmp1: resb 8
-    tmp2: resb 8
 
 section .text
 
 atoi:
     xor rax, rax
-    .top:
-        movzx rcx, byte [rdx]
+    xor rcx, rcx
+    .pre:
+        mov cl, [rdx]
+        inc rdx
+        cmp rcx, '0'
+        jb .pre
+        cmp rcx, '9'
+        ja .pre
+        dec rdx
+    .compute:
+        mov cl, [rdx]
         inc rdx
         cmp rcx, '0'
         jb .done
@@ -21,7 +30,7 @@ atoi:
         sub rcx, '0'
         imul rax, 10
         add rax, rcx
-        jmp .top
+        jmp .compute
     .done:
         ret
 
@@ -52,33 +61,26 @@ itoa:
 
 global _start
 _start:
+    ; read input (CSES reads entire input not just one line !!!)
     mov rax, 0
     mov rdi, 0
     mov rsi, buffer
-    mov rdx, 2000000
+    mov rdx, 1300000
     syscall
     
+    ; clear csum
     xor rax, rax
     mov [csum], rax
-
+    
+    ; get N
     mov rdx, buffer
     call atoi
     mov [N], rax
     mov [cntN], rax
-    
-    mov rax, 0
-    mov rdi, 0
-    mov rsi, buffer
-    mov rdx, 2000000
-    syscall
-    
-    mov rdx, buffer ; CSES input is really weird and breaks assembly kinda
-    call atoi
 
+    ; get sum of numbers given
     .sum:
         call atoi
-        cmp rax, 0
-        je .sum
         mov rbx, [csum]
         add rax, rbx
         mov [csum], rax
@@ -88,26 +90,31 @@ _start:
         cmp rax, 1
         jg .sum
     
-    mov rax, [N]
-    mov rcx, [N]
-    inc rcx
-    imul rcx
-    mov rcx, 2
-    idiv rcx
+        ; get total sum of numbers
+        mov rax, [N]
+        mov rcx, [N]
+        inc rcx
+        imul rcx
+        mov rcx, 2
+        idiv rcx
 
-    mov rbx, [csum]
-    sub rax, rbx
-    xor rbx, rbx
-    call itoa
+        ; subtract to get answer
+        mov rbx, [csum]
+        sub rax, rbx
+    
+    .print:
+        xor rbx, rbx
+        call itoa
 
-    mov rdx, rbx
-    inc rdx
-    
-    mov rax, 1
-    mov rdi, 1
-    mov rsi, outbuff
-    syscall
-    
-    mov rax, 60
-    mov rdi, 0
-    syscall 
+        mov rdx, rbx
+        inc rdx
+        
+        ; print answer
+        mov rax, 1
+        mov rdi, 1
+        mov rsi, outbuff
+        syscall
+        
+        mov rax, 60
+        mov rdi, 0
+        syscall 
