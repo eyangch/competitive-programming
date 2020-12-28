@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 662
+### Total Files: 663
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -107,6 +107,7 @@ A bunch of coding stuff
 [./CSES/Sorting_and_Searching/ferris_wheel.cpp](./CSES/Sorting_and_Searching/ferris_wheel.cpp)\
 [./CSES/Sorting_and_Searching/maximum_subarray_sum.cpp](./CSES/Sorting_and_Searching/maximum_subarray_sum.cpp)\
 [./CSES/Sorting_and_Searching/movie_festival.cpp](./CSES/Sorting_and_Searching/movie_festival.cpp)\
+[./CSES/Sorting_and_Searching/nearest_smaller_values.cpp](./CSES/Sorting_and_Searching/nearest_smaller_values.cpp)\
 [./CSES/Sorting_and_Searching/playlist.cpp](./CSES/Sorting_and_Searching/playlist.cpp)\
 [./CSES/Sorting_and_Searching/reading_books.cpp](./CSES/Sorting_and_Searching/reading_books.cpp)\
 [./CSES/Sorting_and_Searching/restaurant_customers.cpp](./CSES/Sorting_and_Searching/restaurant_customers.cpp)\
