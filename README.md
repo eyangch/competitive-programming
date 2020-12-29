@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 663
+### Total Files: 664
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -89,6 +89,7 @@ A bunch of coding stuff
 [./CSES/Introductory_Problems/missing_number.cpp](./CSES/Introductory_Problems/missing_number.cpp)\
 [./CSES/Introductory_Problems/number_spiral.cpp](./CSES/Introductory_Problems/number_spiral.cpp)\
 [./CSES/Introductory_Problems/palindrome_reorder.cpp](./CSES/Introductory_Problems/palindrome_reorder.cpp)\
+[./CSES/Introductory_Problems/permutations.asm](./CSES/Introductory_Problems/permutations.asm)\
 [./CSES/Introductory_Problems/permutations.cpp](./CSES/Introductory_Problems/permutations.cpp)\
 [./CSES/Introductory_Problems/repetitions.cpp](./CSES/Introductory_Problems/repetitions.cpp)\
 [./CSES/Introductory_Problems/trailing_zeros.cpp](./CSES/Introductory_Problems/trailing_zeros.cpp)\
