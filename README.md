@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 670
+### Total Files: 671
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -104,6 +104,7 @@ A bunch of coding stuff
 [./CSES/Mathematics/exponentation.cpp](./CSES/Mathematics/exponentation.cpp)\
 [./CSES/Mathematics/exponentation_ii.cpp](./CSES/Mathematics/exponentation_ii.cpp)\
 [./CSES/Sorting_and_Searching/apartments.cpp](./CSES/Sorting_and_Searching/apartments.cpp)\
+[./CSES/Sorting_and_Searching/array_division.cpp](./CSES/Sorting_and_Searching/array_division.cpp)\
 [./CSES/Sorting_and_Searching/concert_tickets.cpp](./CSES/Sorting_and_Searching/concert_tickets.cpp)\
 [./CSES/Sorting_and_Searching/distinct_numbers.cpp](./CSES/Sorting_and_Searching/distinct_numbers.cpp)\
 [./CSES/Sorting_and_Searching/factory_machines.cpp](./CSES/Sorting_and_Searching/factory_machines.cpp)\
