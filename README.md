@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 666
+### Total Files: 667
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -116,6 +116,7 @@ A bunch of coding stuff
 [./CSES/Sorting_and_Searching/room_allocation.cpp](./CSES/Sorting_and_Searching/room_allocation.cpp)\
 [./CSES/Sorting_and_Searching/stick_lengths.cpp](./CSES/Sorting_and_Searching/stick_lengths.cpp)\
 [./CSES/Sorting_and_Searching/subarray_sums_i.cpp](./CSES/Sorting_and_Searching/subarray_sums_i.cpp)\
+[./CSES/Sorting_and_Searching/subarray_sums_ii.cpp](./CSES/Sorting_and_Searching/subarray_sums_ii.cpp)\
 [./CSES/Sorting_and_Searching/sum_of_four_values.cpp](./CSES/Sorting_and_Searching/sum_of_four_values.cpp)\
 [./CSES/Sorting_and_Searching/sum_of_three_values.cpp](./CSES/Sorting_and_Searching/sum_of_three_values.cpp)\
 [./CSES/Sorting_and_Searching/sum_of_two_values.cpp](./CSES/Sorting_and_Searching/sum_of_two_values.cpp)\
