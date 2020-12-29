@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 668
+### Total Files: 669
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -67,6 +67,7 @@ A bunch of coding stuff
 [./CEOI/2018/toy.cpp](./CEOI/2018/toy.cpp)\
 [./CEOI/2020/fancyfence.cpp](./CEOI/2020/fancyfence.cpp)\
 [./CSES/Additional_Problems/maximum_xor_subarray.cpp](./CSES/Additional_Problems/maximum_xor_subarray.cpp)\
+[./CSES/Additional_Problems/network_breakdown.cpp](./CSES/Additional_Problems/network_breakdown.cpp)\
 [./CSES/Dynamic_Programming/book_shop.cpp](./CSES/Dynamic_Programming/book_shop.cpp)\
 [./CSES/Dynamic_Programming/coin_combinations_i.cpp](./CSES/Dynamic_Programming/coin_combinations_i.cpp)\
 [./CSES/Dynamic_Programming/coin_combinations_ii.cpp](./CSES/Dynamic_Programming/coin_combinations_ii.cpp)\
