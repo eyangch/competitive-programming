@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 685
+### Total Files: 686
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -528,6 +528,7 @@ A bunch of coding stuff
 [./USACOcontests/gold/2019.12/pump.cpp](./USACOcontests/gold/2019.12/pump.cpp)\
 [./USACOcontests/gold/2020.01/threesum.cpp](./USACOcontests/gold/2020.01/threesum.cpp)\
 [./USACOcontests/gold/2020.01/time.cpp](./USACOcontests/gold/2020.01/time.cpp)\
+[./USACOcontests/gold/2020.02/deleg.cpp](./USACOcontests/gold/2020.02/deleg.cpp)\
 [./USACOcontests/gold/2020.02/help.cpp](./USACOcontests/gold/2020.02/help.cpp)\
 [./USACOcontests/gold/2020.02/timeline.cpp](./USACOcontests/gold/2020.02/timeline.cpp)\
 [./USACOcontests/gold/2020.03/exercise.cpp](./USACOcontests/gold/2020.03/exercise.cpp)\
