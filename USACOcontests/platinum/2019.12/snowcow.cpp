@@ -1,3 +1,16 @@
+/*
+Solution: O(N + Q logN)
+First get preorder traversal of tree (all subtrees are contiguous) and store the start and end of each subtree (do a dfs in O(N) time).
+To process the queries, we can do some range update range sum stuff with lazy segment trees (update = O(log N), query = O(log N))
+In order to color the subtree of a node (snowball), we can maintain a set for each color with disjoint subtrees (sorted by its starting point / parent node).
+If the subtree (sorted by starting point / parent node) in the set with the query's color immediately to the left of the node to be painted extends past the current node's subtree end, then the node and its subtree has already been painted the desired color.
+If not, then we can start painting the subtree. We first do a range update from the start to the end of the subtree of the node to be colored incrementing by 1.
+Then, we have to subtract all of the subtrees (note that they are all disjoint) that are already painted the current color.
+We can iterate through the set for the current color (starting and ending at the bounds of the subtree of the node to be colored) and do a range update for each of those subtrees decrementing by one (cancelling the color operation on nodes that have already been colored).
+Because our current node's subtree covers all of the subtrees in the set that we have done a range update for, we can remove those from the set and only add the current node's subtree to the set.
+To get the colorfulness of the subtree of snowball x, we can simply get a range sum from the beginning to the end of the subtree of x using the segment tree.
+*/
+
 #include <bits/stdc++.h>
 #define int long long
 
@@ -92,7 +105,6 @@ int32_t main(){
     }
     dfs(0, 0);
     t = new segt(0, N-1);
-    int outputn = 0;
     for(int i = 0; i < Q; i++){
         int qid; cin >> qid;
         if(qid == 1){
@@ -118,11 +130,9 @@ int32_t main(){
             }
             cl[c].insert(fo[x]);
         }else{
-            outputn++;
             int x; cin >> x;
             x--;
-            int ans = t->qry(fo[x], lo[x]);
-            cout << ans << endl;
+            cout << t->qry(fo[x], lo[x]) << endl;
         }
     }
     delete t;
