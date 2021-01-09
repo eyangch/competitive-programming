@@ -1,19 +1,12 @@
 section .bss
-    buffer: resb 64
-    outbuff: resb 524288
-    N: resb 8
-    echar: resb 8
-    currpos: resb 8
-    outlen: resb 8
+    buffer: resb 5
+    outbuff: resb 155000
 
 section .data
 
 section .text
 
 atoi:
-    push rbx
-    push rcx
-    push rdx
     xor rax, rax
     xor rcx, rcx
     .pre:
@@ -36,16 +29,9 @@ atoi:
         add rax, rcx
         jmp .compute
     .done:
-        pop rdx
-        pop rcx
-        pop rbx
         ret
 
-itoa: ; rax = num, echar = end char
-    push rax
-    push rbx
-    push rcx
-    push rdx
+itoa: ; rax = num, rdi = end char, rsi = buffer pos
     xor rbx, rbx
     .pre:
         xor rdx, rdx
@@ -53,37 +39,27 @@ itoa: ; rax = num, echar = end char
         div rcx
         push rdx
         inc rbx
-        test rax, rax
-        jnz .pre
+        cmp rax, 0
+        jne .pre
 
         mov rcx, rbx
-        mov rdx, [currpos]
     .compute:
         pop rax
         add rax, '0'
-        mov [rdx], rax
-        inc rdx
+        mov [rsi], rax
+        inc rsi
         dec rcx
         cmp rcx, 0
         je .done
         jmp .compute
     .done:
-        mov rax, [echar]
-        mov [rdx], rax
-        mov rcx, [outlen]
-        add rcx, rbx
-        inc rcx
-        inc rdx
-        mov [outlen], rcx
-        mov [currpos], rdx
-        pop rdx
-        pop rcx
-        pop rbx
-        pop rax
+        mov [rsi], rdi
+        inc rsi
         ret
 
 print: ; print whatever is in buffer
-    mov rdx, [outlen]
+    mov rdx, rsi
+    sub rdx, outbuff
     mov rax, 1
     mov rdi, 1
     mov rsi, outbuff
@@ -97,48 +73,42 @@ _start:
     mov rax, 0
     mov rdi, 0
     mov rsi, buffer
-    mov rdx, 64
+    mov rdx, 5
     syscall
 
-    mov rbx, outbuff
-    mov [currpos], rbx
+    mov rsi, outbuff
+    xor rdi, rdi
 
     ; get N
     mov rdx, buffer
     call atoi
     
-    mov rcx, rax
+    mov r9, rax
+    mov r10, rax
     ; solve problem
     .solve:
-        cmp rcx, 0
+        cmp r9, 0
         je .done
+        mov rax, r10
+        sub rax, r9
+        inc rax
         mov rbx, rax
-        sub rbx, rcx
-        inc rbx
-        push rax
-        push rcx
-        mov rax, rbx
-        imul rbx ; i*i
+        mul rbx ; i*i
         dec rax ; i*i-1
-        imul rbx ; i*(i*i-1)
-        imul rbx ; i*i*(i*i-1)
-        mov rcx, 2
-        idiv rcx ; i*i*(i*i-1)/2
-        push rax
-        mov rax, 4 ; 4
+        mul rbx ; i*(i*i-1)
+        mul rbx ; i*i*(i*i-1)
+        shr rax, 1 ; i*i*(i*i-1)/2
+        mov r11, rax
         dec rbx
-        imul rbx ; 4*(i-1)
+        mov rax, rbx ; (i-1)
         dec rbx
-        imul rbx ; 4*(i-1)*(i-2)
-        mov rbx, rax
-        pop rax
-        sub rax, rbx ; i*i*(i*i-1)/2 - 4*(i-1)*(i-2)
-        mov rdx, 10
-        mov [echar], rdx
+        mul rbx ; (i-1)*(i-2)
+        shl rax, 2 ; 4*(i-1)*(i-2)
+        sub r11, rax ; i*i*(i*i-1)/2 - 4*(i-1)*(i-2)
+        mov rax, r11
+        mov rdi, 10
         call itoa
-        pop rcx
-        pop rax
-        dec rcx
+        dec r9
         jmp .solve
     
     .done:
