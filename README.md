@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 709
+### Total Files: 711
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -69,6 +69,7 @@ A bunch of coding stuff
 [./CSES/Additional_Problems/maximum_xor_subarray.cpp](./CSES/Additional_Problems/maximum_xor_subarray.cpp)\
 [./CSES/Additional_Problems/network_breakdown.cpp](./CSES/Additional_Problems/network_breakdown.cpp)\
 [./CSES/Additional_Problems/network_breakdown_fast.cpp](./CSES/Additional_Problems/network_breakdown_fast.cpp)\
+[./CSES/Additional_Problems/network_breakdown_short.py](./CSES/Additional_Problems/network_breakdown_short.py)\
 [./CSES/Dynamic_Programming/array_description.cpp](./CSES/Dynamic_Programming/array_description.cpp)\
 [./CSES/Dynamic_Programming/book_shop.cpp](./CSES/Dynamic_Programming/book_shop.cpp)\
 [./CSES/Dynamic_Programming/coin_combinations_i.cpp](./CSES/Dynamic_Programming/coin_combinations_i.cpp)\
@@ -116,6 +117,7 @@ A bunch of coding stuff
 [./CSES/Range_Queries/range_xor_queries.cpp](./CSES/Range_Queries/range_xor_queries.cpp)\
 [./CSES/Sorting_and_Searching/apartments.cpp](./CSES/Sorting_and_Searching/apartments.cpp)\
 [./CSES/Sorting_and_Searching/array_division.cpp](./CSES/Sorting_and_Searching/array_division.cpp)\
+[./CSES/Sorting_and_Searching/collecting_numbers.cpp](./CSES/Sorting_and_Searching/collecting_numbers.cpp)\
 [./CSES/Sorting_and_Searching/concert_tickets.cpp](./CSES/Sorting_and_Searching/concert_tickets.cpp)\
 [./CSES/Sorting_and_Searching/distinct_numbers.cpp](./CSES/Sorting_and_Searching/distinct_numbers.cpp)\
 [./CSES/Sorting_and_Searching/factory_machines.cpp](./CSES/Sorting_and_Searching/factory_machines.cpp)\
