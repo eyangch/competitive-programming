@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 712
+### Total Files: 713
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -709,6 +709,7 @@ A bunch of coding stuff
 [./docs/index.html](./docs/index.html)\
 [./docs/pathconstruction.html](./docs/pathconstruction.html)\
 [./docs/scarybulls.html](./docs/scarybulls.html)\
+[./helper/grader.py](./helper/grader.py)\
 [./templates/BIT.cpp](./templates/BIT.cpp)\
 [./templates/dijkstra_elogv.cpp](./templates/dijkstra_elogv.cpp)\
 [./templates/dsu.cpp](./templates/dsu.cpp)\
