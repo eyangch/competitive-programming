@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 723
+### Total Files: 724
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -83,6 +83,7 @@ A bunch of coding stuff
 [./CSES/Dynamic_Programming/two_sets_ii.cpp](./CSES/Dynamic_Programming/two_sets_ii.cpp)\
 [./CSES/Graph_Algorithms/counting_rooms.cpp](./CSES/Graph_Algorithms/counting_rooms.cpp)\
 [./CSES/Graph_Algorithms/labyrinth.cpp](./CSES/Graph_Algorithms/labyrinth.cpp)\
+[./CSES/Graph_Algorithms/message_route.cpp](./CSES/Graph_Algorithms/message_route.cpp)\
 [./CSES/Graph_Algorithms/road_construction.cpp](./CSES/Graph_Algorithms/road_construction.cpp)\
 [./CSES/Graph_Algorithms/shortest_routes_i.cpp](./CSES/Graph_Algorithms/shortest_routes_i.cpp)\
 [./CSES/Graph_Algorithms/shortest_routes_ii.cpp](./CSES/Graph_Algorithms/shortest_routes_ii.cpp)\
