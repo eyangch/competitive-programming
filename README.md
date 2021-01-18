@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 728
+### Total Files: 729
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -76,6 +76,7 @@ A bunch of coding stuff
 [./CSES/Dynamic_Programming/coin_combinations_ii.cpp](./CSES/Dynamic_Programming/coin_combinations_ii.cpp)\
 [./CSES/Dynamic_Programming/counting_towers.cpp](./CSES/Dynamic_Programming/counting_towers.cpp)\
 [./CSES/Dynamic_Programming/dice_combinations.cpp](./CSES/Dynamic_Programming/dice_combinations.cpp)\
+[./CSES/Dynamic_Programming/edit_distance.cpp](./CSES/Dynamic_Programming/edit_distance.cpp)\
 [./CSES/Dynamic_Programming/grid_paths.cpp](./CSES/Dynamic_Programming/grid_paths.cpp)\
 [./CSES/Dynamic_Programming/minimizing_coins.cpp](./CSES/Dynamic_Programming/minimizing_coins.cpp)\
 [./CSES/Dynamic_Programming/money_sums.cpp](./CSES/Dynamic_Programming/money_sums.cpp)\
