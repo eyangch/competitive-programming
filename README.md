@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 745
+### Total Files: 746
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
@@ -55,6 +55,7 @@ A bunch of coding stuff
 [./BOI/2006/countries.cpp](./BOI/2006/countries.cpp)\
 [./BOI/2006/jump.java](./BOI/2006/jump.java)\
 [./BOI/2007/sequence.cpp](./BOI/2007/sequence.cpp)\
+[./BOI/2007/sound.cpp](./BOI/2007/sound.cpp)\
 [./BOI/2008/ele.cpp](./BOI/2008/ele.cpp)\
 [./BOI/2010/bins.cpp](./BOI/2010/bins.cpp)\
 [./BOI/2011/icecream.cpp](./BOI/2011/icecream.cpp)\
