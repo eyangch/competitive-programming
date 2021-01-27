@@ -1,8 +1,9 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 755
+### Total Files: 756
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
+[./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
 [./AdventOfCode/2020/day1/reportrepair.cpp](./AdventOfCode/2020/day1/reportrepair.cpp)\
 [./AdventOfCode/2020/day1/reportrepair2.cpp](./AdventOfCode/2020/day1/reportrepair2.cpp)\
