@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 781
+### Total Files: 782
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -131,6 +131,7 @@ A bunch of coding stuff
 [./CSES/Introductory_Problems/weird_algorithm.cpp](./CSES/Introductory_Problems/weird_algorithm.cpp)\
 [./CSES/Mathematics/common_divisors.cpp](./CSES/Mathematics/common_divisors.cpp)\
 [./CSES/Mathematics/counting_divisors.cpp](./CSES/Mathematics/counting_divisors.cpp)\
+[./CSES/Mathematics/divisor_analysis.cpp](./CSES/Mathematics/divisor_analysis.cpp)\
 [./CSES/Mathematics/exponentation.cpp](./CSES/Mathematics/exponentation.cpp)\
 [./CSES/Mathematics/exponentation_ii.cpp](./CSES/Mathematics/exponentation_ii.cpp)\
 [./CSES/Mathematics/sum_of_divisors.cpp](./CSES/Mathematics/sum_of_divisors.cpp)\
