@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 814
+### Total Files: 815
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -100,6 +100,7 @@ A bunch of coding stuff
 [./CSES/Graph_Algorithms/flight_discount.cpp](./CSES/Graph_Algorithms/flight_discount.cpp)\
 [./CSES/Graph_Algorithms/flight_routes.cpp](./CSES/Graph_Algorithms/flight_routes.cpp)\
 [./CSES/Graph_Algorithms/labyrinth.cpp](./CSES/Graph_Algorithms/labyrinth.cpp)\
+[./CSES/Graph_Algorithms/longest_flight_route.cpp](./CSES/Graph_Algorithms/longest_flight_route.cpp)\
 [./CSES/Graph_Algorithms/message_route.cpp](./CSES/Graph_Algorithms/message_route.cpp)\
 [./CSES/Graph_Algorithms/monsters.cpp](./CSES/Graph_Algorithms/monsters.cpp)\
 [./CSES/Graph_Algorithms/road_construction.cpp](./CSES/Graph_Algorithms/road_construction.cpp)\
