@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 860
+### Total Files: 861
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -219,6 +219,7 @@ A bunch of coding stuff
 [./Codeforces/1288/a.cpp](./Codeforces/1288/a.cpp)\
 [./Codeforces/1291/a.cpp](./Codeforces/1291/a.cpp)\
 [./Codeforces/1296/e2.cpp](./Codeforces/1296/e2.cpp)\
+[./Codeforces/1296/f.java](./Codeforces/1296/f.java)\
 [./Codeforces/130/a.bf](./Codeforces/130/a.bf)\
 [./Codeforces/1301/a.cpp](./Codeforces/1301/a.cpp)\
 [./Codeforces/1301/b.cpp](./Codeforces/1301/b.cpp)\
