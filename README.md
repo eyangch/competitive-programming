@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 863
+### Total Files: 867
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -604,6 +604,10 @@ A bunch of coding stuff
 [./GoogleCodeJam/2019Qual/you_can_go_your_own_way.cpp](./GoogleCodeJam/2019Qual/you_can_go_your_own_way.cpp)\
 [./GoogleCodeJam/2020Qual/nesting_depth.cpp](./GoogleCodeJam/2020Qual/nesting_depth.cpp)\
 [./GoogleCodeJam/2020Qual/vestigium.cpp](./GoogleCodeJam/2020Qual/vestigium.cpp)\
+[./GoogleCodeJam/2021Qual/median_sort.java](./GoogleCodeJam/2021Qual/median_sort.java)\
+[./GoogleCodeJam/2021Qual/moons_and_umbrellas.java](./GoogleCodeJam/2021Qual/moons_and_umbrellas.java)\
+[./GoogleCodeJam/2021Qual/reversort.java](./GoogleCodeJam/2021Qual/reversort.java)\
+[./GoogleCodeJam/2021Qual/reversort_engineering.java](./GoogleCodeJam/2021Qual/reversort_engineering.java)\
 [./GoogleKickstart/2020A/allocation.cpp](./GoogleKickstart/2020A/allocation.cpp)\
 [./GoogleKickstart/2020A/plates.cpp](./GoogleKickstart/2020A/plates.cpp)\
 [./GoogleKickstart/2020A/workout.cpp](./GoogleKickstart/2020A/workout.cpp)\
