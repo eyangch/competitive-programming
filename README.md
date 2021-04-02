@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 876
+### Total Files: 877
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -625,6 +625,7 @@ A bunch of coding stuff
 [./IOI/2006/writing.cpp](./IOI/2006/writing.cpp)\
 [./IOI/2010/cluedo.cpp](./IOI/2010/cluedo.cpp)\
 [./IOI/2010/memory.cpp](./IOI/2010/memory.cpp)\
+[./IZhO/2012/f.cpp](./IZhO/2012/f.cpp)\
 [./JOI/2013/watching.cpp](./JOI/2013/watching.cpp)\
 [./JOI/2014/pinball.cpp](./JOI/2014/pinball.cpp)\
 [./JOI/2018/commuter_pass.cpp](./JOI/2018/commuter_pass.cpp)\
