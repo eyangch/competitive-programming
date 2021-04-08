@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 881
+### Total Files: 882
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -873,6 +873,7 @@ A bunch of coding stuff
 [./USACOtraining/4.4/frameup.cpp](./USACOtraining/4.4/frameup.cpp)\
 [./USACOtraining/4.4/milk6.cpp](./USACOtraining/4.4/milk6.cpp)\
 [./USACOtraining/4.4/shuttle.cpp](./USACOtraining/4.4/shuttle.cpp)\
+[./USACOtraining/5.1/fc.cpp](./USACOtraining/5.1/fc.cpp)\
 [./USACOtraining/5.1/theme.cpp](./USACOtraining/5.1/theme.cpp)\
 [./docs/index.html](./docs/index.html)\
 [./docs/pathconstruction.html](./docs/pathconstruction.html)\
