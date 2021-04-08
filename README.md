@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 878
+### Total Files: 881
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -716,6 +716,9 @@ A bunch of coding stuff
 [./USACOcontests/gold/2021.01/uddered_but_not_herd.cpp](./USACOcontests/gold/2021.01/uddered_but_not_herd.cpp)\
 [./USACOcontests/gold/2021.02/modern_art_3.cpp](./USACOcontests/gold/2021.02/modern_art_3.cpp)\
 [./USACOcontests/gold/2021.02/stone_game.java](./USACOcontests/gold/2021.02/stone_game.java)\
+[./USACOcontests/gold/2021.03/permutations.cpp](./USACOcontests/gold/2021.03/permutations.cpp)\
+[./USACOcontests/gold/2021.03/portals.cpp](./USACOcontests/gold/2021.03/portals.cpp)\
+[./USACOcontests/gold/2021.03/ucfj.cpp](./USACOcontests/gold/2021.03/ucfj.cpp)\
 [./USACOcontests/platinum/2015.12/haybales.cpp](./USACOcontests/platinum/2015.12/haybales.cpp)\
 [./USACOcontests/platinum/2015.12/maxflow.cpp](./USACOcontests/platinum/2015.12/maxflow.cpp)\
 [./USACOcontests/platinum/2016.01/fortmoo.cpp](./USACOcontests/platinum/2016.01/fortmoo.cpp)\
