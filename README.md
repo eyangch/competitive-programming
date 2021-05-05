@@ -916,4 +916,4 @@ A bunch of coding stuff
 [./templates/dijkstra_elogv.cpp](./templates/dijkstra_elogv.cpp)\
 [./templates/dsu.cpp](./templates/dsu.cpp)\
 [./templates/nCr.cpp](./templates/nCr.cpp)\
-[./templates/template.cpp](./templates/template.cpp)
+[./templates/segment_tree.cpp](./templates/segment_tree.cpp)
