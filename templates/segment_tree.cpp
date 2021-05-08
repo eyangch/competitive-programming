@@ -3,18 +3,18 @@
 using namespace std;
 
 struct segt{
-    int l, r;
+    int l, r, mid;
     segt *a, *b;
     int val;
     segt(int vl, int vr, int (&arr)[200000]){
-        l = vl, r = vr;
+        l = vl, r = vr, mid = (l + r) / 2;
         if(l < r){
-            a = new segt(l, (l+r)/2, arr);
-            b = new segt((l+r)/2+1, r, arr);
+            a = new segt(l, mid, arr);
+            b = new segt(mid+1, r, arr);
             val = min(a->val, b->val);
         }
         if(l == r){
-            val = arr[l-1];
+            val = arr[l];
         }
     }
     void upd(int id, int dv){
