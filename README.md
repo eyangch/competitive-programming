@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 958
+### Total Files: 964
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -409,6 +409,7 @@ A bunch of coding stuff
 [./Codeforces/1393/d.cpp](./Codeforces/1393/d.cpp)\
 [./Codeforces/1395/c.cpp](./Codeforces/1395/c.cpp)\
 [./Codeforces/1395/d.cpp](./Codeforces/1395/d.cpp)\
+[./Codeforces/1397/d.cpp](./Codeforces/1397/d.cpp)\
 [./Codeforces/1398/d.java](./Codeforces/1398/d.java)\
 [./Codeforces/1398/e.cpp](./Codeforces/1398/e.cpp)\
 [./Codeforces/1399/e1.cpp](./Codeforces/1399/e1.cpp)\
@@ -571,6 +572,11 @@ A bunch of coding stuff
 [./Codeforces/1535/c.cpp](./Codeforces/1535/c.cpp)\
 [./Codeforces/1535/d.cpp](./Codeforces/1535/d.cpp)\
 [./Codeforces/1535/e.cpp](./Codeforces/1535/e.cpp)\
+[./Codeforces/1536/a.cpp](./Codeforces/1536/a.cpp)\
+[./Codeforces/1536/b.cpp](./Codeforces/1536/b.cpp)\
+[./Codeforces/1536/c.cpp](./Codeforces/1536/c.cpp)\
+[./Codeforces/1536/d.cpp](./Codeforces/1536/d.cpp)\
+[./Codeforces/1536/e.cpp](./Codeforces/1536/e.cpp)\
 [./Codeforces/160/a.cpp](./Codeforces/160/a.cpp)\
 [./Codeforces/166/a.cpp](./Codeforces/166/a.cpp)\
 [./Codeforces/189/a.cpp](./Codeforces/189/a.cpp)\
