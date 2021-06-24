@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+#define endl '\n'
+#define eat cin
+#define moo cout
+#define int long long
+
+using namespace std;
+
+int N;
+
+int32_t main(){
+    eat.tie(0) -> sync_with_stdio(0);
+    eat >> N;
+    int ans = 1;
+    int pid = 0;
+    int prev; eat >> prev;
+    for(int i = 1; i < N; i++){
+        int x; eat >> x;
+        if(x < prev){
+            ans = max(ans, i - pid);
+            pid = i;
+        }
+        prev = x;
+    }
+    moo << max(ans, N - pid) << endl;;
+}
