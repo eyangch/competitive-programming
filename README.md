@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1071
+### Total Files: 1072
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -63,6 +63,7 @@ A bunch of coding stuff
 [./BOI/2011/icecream.cpp](./BOI/2011/icecream.cpp)\
 [./BOI/2011/plagiarism.cpp](./BOI/2011/plagiarism.cpp)\
 [./BOI/2013/tracks.cpp](./BOI/2013/tracks.cpp)\
+[./BOI/2014/friends.cpp](./BOI/2014/friends.cpp)\
 [./BOI/2016/bosses.cpp](./BOI/2016/bosses.cpp)\
 [./BOI/2018/dna.cpp](./BOI/2018/dna.cpp)\
 [./BOI/2018/paths.cpp](./BOI/2018/paths.cpp)\
