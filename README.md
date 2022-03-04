@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1073
+### Total Files: 1076
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -823,6 +823,9 @@ A bunch of coding stuff
 [./USACOcontests/bronze/2019.12/gymnastics.cpp](./USACOcontests/bronze/2019.12/gymnastics.cpp)\
 [./USACOcontests/bronze/2019.12/whereami.cpp](./USACOcontests/bronze/2019.12/whereami.cpp)\
 [./USACOcontests/bronze/2020.03/socdist1.cpp](./USACOcontests/bronze/2020.03/socdist1.cpp)\
+[./USACOcontests/bronze/2022.02/blocks.cpp](./USACOcontests/bronze/2022.02/blocks.cpp)\
+[./USACOcontests/bronze/2022.02/photoshoot_2.cpp](./USACOcontests/bronze/2022.02/photoshoot_2.cpp)\
+[./USACOcontests/bronze/2022.02/sleeping_in_class.cpp](./USACOcontests/bronze/2022.02/sleeping_in_class.cpp)\
 [./USACOcontests/gold/2007.02/lilypad.cpp](./USACOcontests/gold/2007.02/lilypad.cpp)\
 [./USACOcontests/gold/2008.10/pwrfail.cpp](./USACOcontests/gold/2008.10/pwrfail.cpp)\
 [./USACOcontests/gold/2012.01/alliance.cpp](./USACOcontests/gold/2012.01/alliance.cpp)\
