@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1101
+### Total Files: 1109
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -654,6 +654,14 @@ A bunch of coding stuff
 [./Codeforces/160/a.cpp](./Codeforces/160/a.cpp)\
 [./Codeforces/1606/d.cpp](./Codeforces/1606/d.cpp)\
 [./Codeforces/1609/e.cpp](./Codeforces/1609/e.cpp)\
+[./Codeforces/1611/a.cpp](./Codeforces/1611/a.cpp)\
+[./Codeforces/1611/b.cpp](./Codeforces/1611/b.cpp)\
+[./Codeforces/1611/c.cpp](./Codeforces/1611/c.cpp)\
+[./Codeforces/1611/d.cpp](./Codeforces/1611/d.cpp)\
+[./Codeforces/1611/e1.cpp](./Codeforces/1611/e1.cpp)\
+[./Codeforces/1611/e2.cpp](./Codeforces/1611/e2.cpp)\
+[./Codeforces/1611/f.cpp](./Codeforces/1611/f.cpp)\
+[./Codeforces/1611/g.cpp](./Codeforces/1611/g.cpp)\
 [./Codeforces/1615/a.cpp](./Codeforces/1615/a.cpp)\
 [./Codeforces/1615/b.cpp](./Codeforces/1615/b.cpp)\
 [./Codeforces/1615/c.cpp](./Codeforces/1615/c.cpp)\
