@@ -48,8 +48,8 @@ int get_distance(int x, int y){
 	return d + abs(rem) * 2;
 }
 
-int32_t main(){
+/*int32_t main(){
 	eat.tie(0) -> sync_with_stdio(0);
 	init("ATACAT", "ACTATA");
 	moo << get_distance(1, 2) << ' ' << get_distance(4, 5) << ' ' << get_distance(0, 0) << endl;
-}
+}*/
