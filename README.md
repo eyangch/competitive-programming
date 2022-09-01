@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1193
+### Total Files: 1199
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -893,6 +893,12 @@ A bunch of coding stuff
 [./FacebookHackercup/2020/round1/a1.cpp](./FacebookHackercup/2020/round1/a1.cpp)\
 [./FacebookHackercup/2020/round1/b.cpp](./FacebookHackercup/2020/round1/b.cpp)\
 [./FacebookHackercup/2020/round2/a.cpp](./FacebookHackercup/2020/round2/a.cpp)\
+[./FacebookHackercup/2022/qual/a.cpp](./FacebookHackercup/2022/qual/a.cpp)\
+[./FacebookHackercup/2022/qual/b1.cpp](./FacebookHackercup/2022/qual/b1.cpp)\
+[./FacebookHackercup/2022/qual/b2.cpp](./FacebookHackercup/2022/qual/b2.cpp)\
+[./FacebookHackercup/2022/qual/c1.cpp](./FacebookHackercup/2022/qual/c1.cpp)\
+[./FacebookHackercup/2022/qual/c2.cpp](./FacebookHackercup/2022/qual/c2.cpp)\
+[./FacebookHackercup/2022/qual/d.cpp](./FacebookHackercup/2022/qual/d.cpp)\
 [./GoogleCodeJam/2019Qual/foregone_solution.cpp](./GoogleCodeJam/2019Qual/foregone_solution.cpp)\
 [./GoogleCodeJam/2019Qual/you_can_go_your_own_way.cpp](./GoogleCodeJam/2019Qual/you_can_go_your_own_way.cpp)\
 [./GoogleCodeJam/2020Qual/nesting_depth.cpp](./GoogleCodeJam/2020Qual/nesting_depth.cpp)\
