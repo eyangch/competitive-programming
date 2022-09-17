@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1207
+### Total Files: 1208
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -1035,6 +1035,7 @@ A bunch of coding stuff
 [./USACOcontests/platinum/2015.12/haybales.cpp](./USACOcontests/platinum/2015.12/haybales.cpp)\
 [./USACOcontests/platinum/2015.12/maxflow.cpp](./USACOcontests/platinum/2015.12/maxflow.cpp)\
 [./USACOcontests/platinum/2016.01/fortmoo.cpp](./USACOcontests/platinum/2016.01/fortmoo.cpp)\
+[./USACOcontests/platinum/2016.02/balancing.cpp](./USACOcontests/platinum/2016.02/balancing.cpp)\
 [./USACOcontests/platinum/2016.02/fencedin.cpp](./USACOcontests/platinum/2016.02/fencedin.cpp)\
 [./USACOcontests/platinum/2016.03/262144.cpp](./USACOcontests/platinum/2016.03/262144.cpp)\
 [./USACOcontests/platinum/2016.12/team.cpp](./USACOcontests/platinum/2016.12/team.cpp)\
