@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1210
+### Total Files: 1212
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -909,6 +909,8 @@ A bunch of coding stuff
 [./FacebookHackercup/2022/round1/a2/a2.cpp](./FacebookHackercup/2022/round1/a2/a2.cpp)\
 [./FacebookHackercup/2022/round1/b1/b1.cpp](./FacebookHackercup/2022/round1/b1/b1.cpp)\
 [./FacebookHackercup/2022/round1/b2/b2.cpp](./FacebookHackercup/2022/round1/b2/b2.cpp)\
+[./FacebookHackercup/2022/round2/a1/a1.cpp](./FacebookHackercup/2022/round2/a1/a1.cpp)\
+[./FacebookHackercup/2022/round2/b/b.cpp](./FacebookHackercup/2022/round2/b/b.cpp)\
 [./GoogleCodeJam/2019Qual/foregone_solution.cpp](./GoogleCodeJam/2019Qual/foregone_solution.cpp)\
 [./GoogleCodeJam/2019Qual/you_can_go_your_own_way.cpp](./GoogleCodeJam/2019Qual/you_can_go_your_own_way.cpp)\
 [./GoogleCodeJam/2020Qual/nesting_depth.cpp](./GoogleCodeJam/2020Qual/nesting_depth.cpp)\
