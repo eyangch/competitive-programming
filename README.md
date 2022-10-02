@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1213
+### Total Files: 1214
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -1051,6 +1051,7 @@ A bunch of coding stuff
 [./USACOcontests/platinum/2019.01/redistricting.cpp](./USACOcontests/platinum/2019.01/redistricting.cpp)\
 [./USACOcontests/platinum/2019.02/cowdate.cpp](./USACOcontests/platinum/2019.02/cowdate.cpp)\
 [./USACOcontests/platinum/2019.02/mooriokart.cpp](./USACOcontests/platinum/2019.02/mooriokart.cpp)\
+[./USACOcontests/platinum/2019.12/pieaters.cpp](./USACOcontests/platinum/2019.12/pieaters.cpp)\
 [./USACOcontests/platinum/2019.12/snowcow.cpp](./USACOcontests/platinum/2019.12/snowcow.cpp)\
 [./USACOcontests/platinum/2020.01/cave.cpp](./USACOcontests/platinum/2020.01/cave.cpp)\
 [./USACOcontests/platinum/2020.12/sleeping_cows.cpp](./USACOcontests/platinum/2020.12/sleeping_cows.cpp)\
