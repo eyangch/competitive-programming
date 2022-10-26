@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1225
+### Total Files: 1226
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -1064,6 +1064,7 @@ A bunch of coding stuff
 [./USACOcontests/platinum/2020.02/triangles.cpp](./USACOcontests/platinum/2020.02/triangles.cpp)\
 [./USACOcontests/platinum/2020.03/sprinklers2.cpp](./USACOcontests/platinum/2020.03/sprinklers2.cpp)\
 [./USACOcontests/platinum/2020.12/sleeping_cows.cpp](./USACOcontests/platinum/2020.12/sleeping_cows.cpp)\
+[./USACOcontests/platinum/2021.01/sum_of_distances.cpp](./USACOcontests/platinum/2021.01/sum_of_distances.cpp)\
 [./USACOcontests/platinum/2021.02/no_time_to_dry.cpp](./USACOcontests/platinum/2021.02/no_time_to_dry.cpp)\
 [./USACOcontests/platinum/2021.03/balanced_subsets.cpp](./USACOcontests/platinum/2021.03/balanced_subsets.cpp)\
 [./USACOcontests/platinum/2021.03/united_cows_of_farmer_john.cpp](./USACOcontests/platinum/2021.03/united_cows_of_farmer_john.cpp)\
