@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1231
+### Total Files: 1234
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -937,6 +937,9 @@ A bunch of coding stuff
 [./GoogleKickstart/2020A/workout.cpp](./GoogleKickstart/2020A/workout.cpp)\
 [./GoogleKickstart/2020E/highbuildings.cpp](./GoogleKickstart/2020E/highbuildings.cpp)\
 [./GoogleKickstart/2020E/longestarithmetic.cpp](./GoogleKickstart/2020E/longestarithmetic.cpp)\
+[./GoogleKickstart/2022H/electricity.cpp](./GoogleKickstart/2022H/electricity.cpp)\
+[./GoogleKickstart/2022H/magical_well_of_lilies.cpp](./GoogleKickstart/2022H/magical_well_of_lilies.cpp)\
+[./GoogleKickstart/2022H/running_in_circles.cpp](./GoogleKickstart/2022H/running_in_circles.cpp)\
 [./IOI/2006/writing.cpp](./IOI/2006/writing.cpp)\
 [./IOI/2010/cluedo.cpp](./IOI/2010/cluedo.cpp)\
 [./IOI/2010/memory.cpp](./IOI/2010/memory.cpp)\
