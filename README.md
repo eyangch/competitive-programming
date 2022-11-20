@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1239
+### Total Files: 1243
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -963,6 +963,10 @@ A bunch of coding stuff
 [./Kattis/polygonarea.cpp](./Kattis/polygonarea.cpp)\
 [./Kattis/summertrip.cpp](./Kattis/summertrip.cpp)\
 [./Kattis/terraces.cpp](./Kattis/terraces.cpp)\
+[./LeetCode/Weekly320/6241.cpp](./LeetCode/Weekly320/6241.cpp)\
+[./LeetCode/Weekly320/6242.cpp](./LeetCode/Weekly320/6242.cpp)\
+[./LeetCode/Weekly320/6243.cpp](./LeetCode/Weekly320/6243.cpp)\
+[./LeetCode/Weekly320/6244.cpp](./LeetCode/Weekly320/6244.cpp)\
 [./USACOcontests/bronze/2011.12/escape.java](./USACOcontests/bronze/2011.12/escape.java)\
 [./USACOcontests/bronze/2012.11/cowfind.cpp](./USACOcontests/bronze/2012.11/cowfind.cpp)\
 [./USACOcontests/bronze/2016.12/cowsignal.cpp](./USACOcontests/bronze/2016.12/cowsignal.cpp)\
