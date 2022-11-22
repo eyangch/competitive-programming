@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1244
+### Total Files: 1245
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -1085,6 +1085,7 @@ A bunch of coding stuff
 [./USACOcontests/platinum/2021.02/no_time_to_dry.cpp](./USACOcontests/platinum/2021.02/no_time_to_dry.cpp)\
 [./USACOcontests/platinum/2021.03/balanced_subsets.cpp](./USACOcontests/platinum/2021.03/balanced_subsets.cpp)\
 [./USACOcontests/platinum/2021.03/united_cows_of_farmer_john.cpp](./USACOcontests/platinum/2021.03/united_cows_of_farmer_john.cpp)\
+[./USACOcontests/platinum/2021.12/hilo.cpp](./USACOcontests/platinum/2021.12/hilo.cpp)\
 [./USACOcontests/platinum/2021.12/tickets.cpp](./USACOcontests/platinum/2021.12/tickets.cpp)\
 [./USACOcontests/platinum/2022.01/minimizing_haybales.cpp](./USACOcontests/platinum/2022.01/minimizing_haybales.cpp)\
 [./USACOcontests/platinum/2022.03/up_down_subsequence.java](./USACOcontests/platinum/2022.03/up_down_subsequence.java)\
