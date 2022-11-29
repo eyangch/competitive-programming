@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1256
+### Total Files: 1262
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -748,6 +748,7 @@ A bunch of coding stuff
 [./Codeforces/1690/f.cpp](./Codeforces/1690/f.cpp)\
 [./Codeforces/1690/g.cpp](./Codeforces/1690/g.cpp)\
 [./Codeforces/1691/e.cpp](./Codeforces/1691/e.cpp)\
+[./Codeforces/1691/f.cpp](./Codeforces/1691/f.cpp)\
 [./Codeforces/1692/e.cpp](./Codeforces/1692/e.cpp)\
 [./Codeforces/1692/h.cpp](./Codeforces/1692/h.cpp)\
 [./Codeforces/1694/e.cpp](./Codeforces/1694/e.cpp)\
@@ -920,6 +921,11 @@ A bunch of coding stuff
 [./Codeforces/gym_103034_ZSAprilFools2021/d.py](./Codeforces/gym_103034_ZSAprilFools2021/d.py)\
 [./Codeforces/gym_103034_ZSAprilFools2021/e.cpp](./Codeforces/gym_103034_ZSAprilFools2021/e.cpp)\
 [./Codeforces/gym_103150_ez/i.cpp](./Codeforces/gym_103150_ez/i.cpp)\
+[./DMOJ/DMOPC22nov/1.cpp](./DMOJ/DMOPC22nov/1.cpp)\
+[./DMOJ/DMOPC22nov/2.cpp](./DMOJ/DMOPC22nov/2.cpp)\
+[./DMOJ/DMOPC22nov/3.cpp](./DMOJ/DMOPC22nov/3.cpp)\
+[./DMOJ/DMOPC22nov/4_subtask1.cpp](./DMOJ/DMOPC22nov/4_subtask1.cpp)\
+[./DMOJ/DMOPC22nov/6_subtask1.cpp](./DMOJ/DMOPC22nov/6_subtask1.cpp)\
 [./FacebookHackercup/2019/round2/a.cpp](./FacebookHackercup/2019/round2/a.cpp)\
 [./FacebookHackercup/2020/qual/a.cpp](./FacebookHackercup/2020/qual/a.cpp)\
 [./FacebookHackercup/2020/qual/b.cpp](./FacebookHackercup/2020/qual/b.cpp)\
