@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1268
+### Total Files: 1271
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -56,6 +56,8 @@ A bunch of coding stuff
 [./AdventOfCode/2022/day1/2.cpp](./AdventOfCode/2022/day1/2.cpp)\
 [./AdventOfCode/2022/day2/1.cpp](./AdventOfCode/2022/day2/1.cpp)\
 [./AdventOfCode/2022/day2/2.cpp](./AdventOfCode/2022/day2/2.cpp)\
+[./AdventOfCode/2022/day3/1.cpp](./AdventOfCode/2022/day3/1.cpp)\
+[./AdventOfCode/2022/day3/2.cpp](./AdventOfCode/2022/day3/2.cpp)\
 [./AtCoder/abc169/d.cpp](./AtCoder/abc169/d.cpp)\
 [./AtCoder/abc260/f.cpp](./AtCoder/abc260/f.cpp)\
 [./AtCoder/abc270/f.cpp](./AtCoder/abc270/f.cpp)\
@@ -729,6 +731,7 @@ A bunch of coding stuff
 [./Codeforces/1629/e.cpp](./Codeforces/1629/e.cpp)\
 [./Codeforces/1629/f1.cpp](./Codeforces/1629/f1.cpp)\
 [./Codeforces/1635/e.cpp](./Codeforces/1635/e.cpp)\
+[./Codeforces/1637/e.cpp](./Codeforces/1637/e.cpp)\
 [./Codeforces/1638/e.cpp](./Codeforces/1638/e.cpp)\
 [./Codeforces/1644/b.cpp](./Codeforces/1644/b.cpp)\
 [./Codeforces/1644/d.cpp](./Codeforces/1644/d.cpp)\
