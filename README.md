@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1315
+### Total Files: 1327
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -1050,6 +1050,9 @@ A bunch of coding stuff
 [./USACOcontests/bronze/2022.02/blocks.cpp](./USACOcontests/bronze/2022.02/blocks.cpp)\
 [./USACOcontests/bronze/2022.02/photoshoot_2.cpp](./USACOcontests/bronze/2022.02/photoshoot_2.cpp)\
 [./USACOcontests/bronze/2022.02/sleeping_in_class.cpp](./USACOcontests/bronze/2022.02/sleeping_in_class.cpp)\
+[./USACOcontests/bronze/2022.12/cow_college.cpp](./USACOcontests/bronze/2022.12/cow_college.cpp)\
+[./USACOcontests/bronze/2022.12/feeding_the_cows.cpp](./USACOcontests/bronze/2022.12/feeding_the_cows.cpp)\
+[./USACOcontests/bronze/2022.12/reverse_engineering.cpp](./USACOcontests/bronze/2022.12/reverse_engineering.cpp)\
 [./USACOcontests/gold/2007.02/lilypad.cpp](./USACOcontests/gold/2007.02/lilypad.cpp)\
 [./USACOcontests/gold/2008.10/pwrfail.cpp](./USACOcontests/gold/2008.10/pwrfail.cpp)\
 [./USACOcontests/gold/2012.01/alliance.cpp](./USACOcontests/gold/2012.01/alliance.cpp)\
@@ -1249,6 +1252,15 @@ A bunch of coding stuff
 [./USACOcontests/silver/2020.12/3.cpp](./USACOcontests/silver/2020.12/3.cpp)\
 [./USACOcontests/silver/2021.01/dance_mooves.java](./USACOcontests/silver/2021.01/dance_mooves.java)\
 [./USACOcontests/silver/2021.12/convoluted_intervals.cpp](./USACOcontests/silver/2021.12/convoluted_intervals.cpp)\
+[./USACOcontests/silver/2022.12/barn_tree](./USACOcontests/silver/2022.12/barn_tree)\
+[./USACOcontests/silver/2022.12/barn_tree.cpp](./USACOcontests/silver/2022.12/barn_tree.cpp)\
+[./USACOcontests/silver/2022.12/barn_tree.cpp:tests](./USACOcontests/silver/2022.12/barn_tree.cpp:tests)\
+[./USACOcontests/silver/2022.12/circular_barn](./USACOcontests/silver/2022.12/circular_barn)\
+[./USACOcontests/silver/2022.12/circular_barn.cpp](./USACOcontests/silver/2022.12/circular_barn.cpp)\
+[./USACOcontests/silver/2022.12/circular_barn.cpp:tests](./USACOcontests/silver/2022.12/circular_barn.cpp:tests)\
+[./USACOcontests/silver/2022.12/range_reconstruction](./USACOcontests/silver/2022.12/range_reconstruction)\
+[./USACOcontests/silver/2022.12/range_reconstruction.cpp](./USACOcontests/silver/2022.12/range_reconstruction.cpp)\
+[./USACOcontests/silver/2022.12/range_reconstruction.cpp:tests](./USACOcontests/silver/2022.12/range_reconstruction.cpp:tests)\
 [./USACOtraining/1.2/friday.cpp](./USACOtraining/1.2/friday.cpp)\
 [./USACOtraining/1.2/gift1.cpp](./USACOtraining/1.2/gift1.cpp)\
 [./USACOtraining/1.2/ride.cpp](./USACOtraining/1.2/ride.cpp)\
