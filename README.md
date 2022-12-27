@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1327
+### Total Files: 1326
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -823,6 +823,11 @@ A bunch of coding stuff
 [./Codeforces/1709/e.cpp](./Codeforces/1709/e.cpp)\
 [./Codeforces/1710/a.cpp](./Codeforces/1710/a.cpp)\
 [./Codeforces/1710/b.cpp](./Codeforces/1710/b.cpp)\
+[./Codeforces/1712/a.cpp](./Codeforces/1712/a.cpp)\
+[./Codeforces/1712/b.cpp](./Codeforces/1712/b.cpp)\
+[./Codeforces/1712/c.cpp](./Codeforces/1712/c.cpp)\
+[./Codeforces/1712/d.cpp](./Codeforces/1712/d.cpp)\
+[./Codeforces/1712/e.cpp](./Codeforces/1712/e.cpp)\
 [./Codeforces/1713/e.cpp](./Codeforces/1713/e.cpp)\
 [./Codeforces/1714/a.cpp](./Codeforces/1714/a.cpp)\
 [./Codeforces/1714/b.cpp](./Codeforces/1714/b.cpp)\
@@ -1252,15 +1257,9 @@ A bunch of coding stuff
 [./USACOcontests/silver/2020.12/3.cpp](./USACOcontests/silver/2020.12/3.cpp)\
 [./USACOcontests/silver/2021.01/dance_mooves.java](./USACOcontests/silver/2021.01/dance_mooves.java)\
 [./USACOcontests/silver/2021.12/convoluted_intervals.cpp](./USACOcontests/silver/2021.12/convoluted_intervals.cpp)\
-[./USACOcontests/silver/2022.12/barn_tree](./USACOcontests/silver/2022.12/barn_tree)\
 [./USACOcontests/silver/2022.12/barn_tree.cpp](./USACOcontests/silver/2022.12/barn_tree.cpp)\
-[./USACOcontests/silver/2022.12/barn_tree.cpp:tests](./USACOcontests/silver/2022.12/barn_tree.cpp:tests)\
-[./USACOcontests/silver/2022.12/circular_barn](./USACOcontests/silver/2022.12/circular_barn)\
 [./USACOcontests/silver/2022.12/circular_barn.cpp](./USACOcontests/silver/2022.12/circular_barn.cpp)\
-[./USACOcontests/silver/2022.12/circular_barn.cpp:tests](./USACOcontests/silver/2022.12/circular_barn.cpp:tests)\
-[./USACOcontests/silver/2022.12/range_reconstruction](./USACOcontests/silver/2022.12/range_reconstruction)\
 [./USACOcontests/silver/2022.12/range_reconstruction.cpp](./USACOcontests/silver/2022.12/range_reconstruction.cpp)\
-[./USACOcontests/silver/2022.12/range_reconstruction.cpp:tests](./USACOcontests/silver/2022.12/range_reconstruction.cpp:tests)\
 [./USACOtraining/1.2/friday.cpp](./USACOtraining/1.2/friday.cpp)\
 [./USACOtraining/1.2/gift1.cpp](./USACOtraining/1.2/gift1.cpp)\
 [./USACOtraining/1.2/ride.cpp](./USACOtraining/1.2/ride.cpp)\
