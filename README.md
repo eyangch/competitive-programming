@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1363
+### Total Files: 1364
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -127,6 +127,7 @@ A bunch of coding stuff
 [./CSES/Additional_Problems/network_breakdown.cpp](./CSES/Additional_Problems/network_breakdown.cpp)\
 [./CSES/Additional_Problems/network_breakdown_fast.cpp](./CSES/Additional_Problems/network_breakdown_fast.cpp)\
 [./CSES/Additional_Problems/network_breakdown_short.py](./CSES/Additional_Problems/network_breakdown_short.py)\
+[./CSES/Additional_Problems/new_roads_queries.cpp](./CSES/Additional_Problems/new_roads_queries.cpp)\
 [./CSES/Dynamic_Programming/array_description.cpp](./CSES/Dynamic_Programming/array_description.cpp)\
 [./CSES/Dynamic_Programming/book_shop.cpp](./CSES/Dynamic_Programming/book_shop.cpp)\
 [./CSES/Dynamic_Programming/coin_combinations_i.cpp](./CSES/Dynamic_Programming/coin_combinations_i.cpp)\
