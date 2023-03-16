@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1375
+### Total Files: 1376
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -145,6 +145,7 @@ A bunch of coding stuff
 [./CSES/Dynamic_Programming/removal_game.cpp](./CSES/Dynamic_Programming/removal_game.cpp)\
 [./CSES/Dynamic_Programming/removing_digits.cpp](./CSES/Dynamic_Programming/removing_digits.cpp)\
 [./CSES/Dynamic_Programming/two_sets_ii.cpp](./CSES/Dynamic_Programming/two_sets_ii.cpp)\
+[./CSES/Geometry/convex_hull.cpp](./CSES/Geometry/convex_hull.cpp)\
 [./CSES/Graph_Algorithms/building_roads.cpp](./CSES/Graph_Algorithms/building_roads.cpp)\
 [./CSES/Graph_Algorithms/building_teams.cpp](./CSES/Graph_Algorithms/building_teams.cpp)\
 [./CSES/Graph_Algorithms/counting_rooms.cpp](./CSES/Graph_Algorithms/counting_rooms.cpp)\
