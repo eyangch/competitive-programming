@@ -52,6 +52,7 @@ int32_t main(){
         }
         if(i > 0) dp[i] = dp[i-1];
         dp[i] = max(dp[i], R[i].x * cy - R[i].a + mxv);
+        moo << mxv << ' ' << dp[i] << endl;
         Line cur = {-R[i].x, dp[i]};
         while(dq.size() >= 2 && !isct(cur, dq[0], dq[1])){
             dq.pop_front();
