@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1384
+### Total Files: 1388
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -146,6 +146,7 @@ A bunch of coding stuff
 [./CSES/Dynamic_Programming/removing_digits.cpp](./CSES/Dynamic_Programming/removing_digits.cpp)\
 [./CSES/Dynamic_Programming/two_sets_ii.cpp](./CSES/Dynamic_Programming/two_sets_ii.cpp)\
 [./CSES/Geometry/convex_hull.cpp](./CSES/Geometry/convex_hull.cpp)\
+[./CSES/Graph_Algorithms/DownloadSpeed.java](./CSES/Graph_Algorithms/DownloadSpeed.java)\
 [./CSES/Graph_Algorithms/building_roads.cpp](./CSES/Graph_Algorithms/building_roads.cpp)\
 [./CSES/Graph_Algorithms/building_teams.cpp](./CSES/Graph_Algorithms/building_teams.cpp)\
 [./CSES/Graph_Algorithms/counting_rooms.cpp](./CSES/Graph_Algorithms/counting_rooms.cpp)\
@@ -914,6 +915,8 @@ A bunch of coding stuff
 [./Codeforces/1800/f.java](./Codeforces/1800/f.java)\
 [./Codeforces/1811/d.java](./Codeforces/1811/d.java)\
 [./Codeforces/1841/b.cpp](./Codeforces/1841/b.cpp)\
+[./Codeforces/1844/c.cpp](./Codeforces/1844/c.cpp)\
+[./Codeforces/1844/d.cpp](./Codeforces/1844/d.cpp)\
 [./Codeforces/189/a.cpp](./Codeforces/189/a.cpp)\
 [./Codeforces/2/a.cpp](./Codeforces/2/a.cpp)\
 [./Codeforces/2/b.cpp](./Codeforces/2/b.cpp)\
@@ -1018,6 +1021,7 @@ A bunch of coding stuff
 [./Codeforces/96/a.cpp](./Codeforces/96/a.cpp)\
 [./Codeforces/961/b.cpp](./Codeforces/961/b.cpp)\
 [./Codeforces/979/a.cpp](./Codeforces/979/a.cpp)\
+[./Codeforces/981/a.cpp](./Codeforces/981/a.cpp)\
 [./Codeforces/acmsguru/112.java](./Codeforces/acmsguru/112.java)\
 [./Codeforces/gym_102566_AGM2020qual/f.cpp](./Codeforces/gym_102566_AGM2020qual/f.cpp)\
 [./Codeforces/gym_102951_usaco_guide/a.java](./Codeforces/gym_102951_usaco_guide/a.java)\
