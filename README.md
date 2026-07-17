@@ -1167,6 +1167,7 @@ A bunch of coding stuff
 [./LeetCode/3259.cpp](./LeetCode/3259.cpp)\
 [./LeetCode/3260.cpp](./LeetCode/3260.cpp)\
 [./LeetCode/3286.py](./LeetCode/3286.py)\
+[./LeetCode/3312.py](./LeetCode/3312.py)\
 [./LeetCode/3336.go](./LeetCode/3336.go)\
 [./LeetCode/337.cpp](./LeetCode/337.cpp)\
 [./LeetCode/35.py](./LeetCode/35.py)\
@@ -1213,7 +1214,6 @@ A bunch of coding stuff
 [./LeetCode/905.cpp](./LeetCode/905.cpp)\
 [./LeetCode/941.cpp](./LeetCode/941.cpp)\
 [./LeetCode/953.cpp](./LeetCode/953.cpp)\
-[./LeetCode/download_latest_ac.py](./LeetCode/download_latest_ac.py)\
 [./USACOcontests/bronze/2011.12/escape.java](./USACOcontests/bronze/2011.12/escape.java)\
 [./USACOcontests/bronze/2012.11/cowfind.cpp](./USACOcontests/bronze/2012.11/cowfind.cpp)\
 [./USACOcontests/bronze/2016.12/cowsignal.cpp](./USACOcontests/bronze/2016.12/cowsignal.cpp)\
