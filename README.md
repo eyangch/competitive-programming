@@ -1,7 +1,7 @@
 # competitive-programming
 A bunch of coding stuff
 
-### Total Files: 1505
+### Total Files: 1506
 [./APIO/2015/skyscraper.cpp](./APIO/2015/skyscraper.cpp)\
 [./APIO/2019/strange_device.cpp](./APIO/2019/strange_device.cpp)\
 [./AdventOfCode/2020/day1/input.txt](./AdventOfCode/2020/day1/input.txt)\
@@ -1095,6 +1095,7 @@ A bunch of coding stuff
 [./LeetCode/1.cpp](./LeetCode/1.cpp)\
 [./LeetCode/10.py](./LeetCode/10.py)\
 [./LeetCode/1015.cpp](./LeetCode/1015.cpp)\
+[./LeetCode/1081.go](./LeetCode/1081.go)\
 [./LeetCode/11.py](./LeetCode/11.py)\
 [./LeetCode/1114.cpp](./LeetCode/1114.cpp)\
 [./LeetCode/1115.cpp](./LeetCode/1115.cpp)\
